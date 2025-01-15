@@ -5,6 +5,9 @@ import pandas as pd
 from openai     import OpenAI
 from io         import BytesIO
 from PyPDF2     import PdfReader
+from dotenv     import load_dotenv
+
+load_dotenv()
 
 client = OpenAI(api_key=os.getenv("OPENAI_KEY"))
 
@@ -27,8 +30,11 @@ def analyze_text_with_openai(text):
     """Analyzes text using OpenAI API to extract key information."""
     prompt = f"Analyze the following board deck and extract the key insights, metrics, and business highlights:\n{text}"
     response = client.chat.completions.create(
-        engine="gpt-4o-mini",
-        prompt=prompt,
+        model="gpt-4o-mini",
+        messages=[{
+            "role": "user",
+            "content": prompt,
+        }],
         max_tokens=1500
     )
     return response.choices[0].text.strip()
