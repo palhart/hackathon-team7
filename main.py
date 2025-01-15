@@ -1,11 +1,12 @@
-import openai
-from io import BytesIO
-from PyPDF2 import PdfReader
+import os
 import streamlit as st
 import pandas as pd
 
-# OpenAI API key setup
-openai.api_key = 'your_openai_api_key_here'
+from openai     import OpenAI
+from io         import BytesIO
+from PyPDF2     import PdfReader
+
+client = OpenAI(api_key=os.getenv("OPENAI_KEY"))
 
 # Streamlit app setup
 st.title("Board Deck Analyzer")
@@ -25,8 +26,8 @@ def extract_text_from_pdf(file):
 def analyze_text_with_openai(text):
     """Analyzes text using OpenAI API to extract key information."""
     prompt = f"Analyze the following board deck and extract the key insights, metrics, and business highlights:\n{text}"
-    response = openai.Completion.create(
-        engine="text-davinci-003",
+    response = client.chat.completions.create(
+        engine="gpt-4o-mini",
         prompt=prompt,
         max_tokens=1500
     )
