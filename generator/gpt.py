@@ -63,12 +63,31 @@ class GPT:
         json_response = completion.choices[0].message.content
         return json_response
 
-
-
 if __name__ == '__main__':
     gpt = GPT(api_key=api_key)
     deck_images = get_images_path('/data/images') 
-    fields = ['Headcount_Count', 'Headcount_Growth', 'Headcount_Breakdown_of_employees', 'Fundraising_Total_amount', 'Fundraising_Date_of_last_round', 'Financials_GMV' , 'Financials_Net_Sales' , 'Financials_CAC', 'Fundraising_Total_amount' , 'Fundraising_Date_of_last_round']
+    fields = [
+        # PDF EXTRACTION FIELDS
+        'Headcount_Count', 'Headcount_Growth', 'Headcount_Breakdown_of_employees', 'Fundraising_Total_amount', 'Fundraising_Date_of_last_round', 'Financials_GMV' , 'Financials_Net_Sales' , 'Financials_CAC', 'Fundraising_Total_amount' , 'Fundraising_Date_of_last_round'
+        # HARMONIC - pdl_enrichment
+        "status",
+        "name",
+        "display_name",
+        "size",
+        "employee_count",
+        "id",
+        "industry",
+        "location",
+        "total_funding_raised",
+        "latest_funding_stage",
+        "last_funding_date",
+        "number_funding_rounds",
+        "employee_count_by_country",
+        #HARMONIC - similarweb_visits - from transform_data_to_quarterly()
+        "number_of_visits"
+        # HARMONIC - similarweb_visits - extract_investors_names()
+        "investors_names"
+    ]
     data = gpt.extract_data(deck_images, fields)
     print(data)
     
