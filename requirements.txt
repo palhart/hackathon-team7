@@ -2,3 +2,8 @@ streamlit
 openai
 PyPDF2
 pandas
+numpy
+requests
+python-dotenv
+pydantic
+pdf2image
