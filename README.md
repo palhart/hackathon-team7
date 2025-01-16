@@ -26,21 +26,15 @@ Ensure you have the following installed:
 In the root directory of your project, create a file named `.env` and include the following environment variables:
 
 ```env
-OPENAI_API_KEY=<Your OpenAI API Key>
-GMAIL_USER=<Your Gmail Address>
-GMAIL_PASSWORD=<Your App Password>
+SIMILARWEB_API_KEY = ""
+HARMONIC_API_KEY = ""
+PEOPLE_DATA_LABS_API_KEY = ""
+PREDICT_LEADS_API_KEY = ""
+PREDICT_LEADS_API_TOKEN = ""
+OPENAI_API_KEY = ""
+GMAIL_USER = ""
+GMAIL_PASSWORD = ""
 ```
-
-Replace the placeholders (`<...>`) with your actual values:
-
-- **SIMILARWEB_API_KEY** = ""
-- **HARMONIC_API_KEY** = ""
-- **PEOPLE_DATA_LABS_API_KEY** = ""
-- **PREDICT_LEADS_API_KEY** = ""
-- **PREDICT_LEADS_API_TOKEN** = ""
-- **OPENAI_API_KEY** = ""
-- **GMAIL_USER** = ""
-- **GMAIL_PASSWORD** = ""
 
 ---
 
