@@ -5,7 +5,6 @@ from email.parser import BytesParser
 from email.policy import default
 import time
 import os
-from PyPDF2 import PdfReader
 from dotenv import load_dotenv
 from historical_pipeline import historical_process_data
 

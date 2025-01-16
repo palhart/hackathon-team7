@@ -4,6 +4,7 @@ import seaborn as sns
 from fpdf import FPDF
 import os
 import shutil
+import ast
 
 
 dir_name = os.path.dirname(os.path.abspath(__file__))
@@ -18,7 +19,20 @@ def load_data(file_path):
         "Financials_GMV", "Financials_Net_Sales", "Financials_CAC"
     ]
 
-    return pd.read_csv(file_path, names=columns)
+    df = pd.read_csv(file_path, usecols=columns)
+
+    df_breakdown = df['Headcount_Breakdown_of_employees'].apply(ast.literal_eval).apply(pd.Series)
+
+    final_df = pd.concat([df, df_breakdown], axis=1)
+    final_df = final_df.drop(['Headcount_Breakdown_of_employees'], axis=1)
+
+    final_df['year'] = final_df['quarter'].str.extract(r'(\d{4})').astype(int)
+    
+    
+    final_df['quarter'] = final_df['quarter'].str.extract(r'Q(\d)').astype(int)
+
+    return final_df
+
 
 # Function 2: Generate graphs for a company
 def generate_graphs(company_name, data):

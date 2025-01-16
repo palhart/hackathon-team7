@@ -10,3 +10,4 @@ pdf2image
 matplotlib
 seaborn
 fpdf
+asts
