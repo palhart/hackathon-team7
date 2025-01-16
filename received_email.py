@@ -7,7 +7,7 @@ import time
 import os
 from dotenv import load_dotenv
 from historical_pipeline import historical_process_data
-
+from benchmark_pipeline import combined_benchmarking
 load_dotenv()
 
 # Your credentials
@@ -74,7 +74,7 @@ def check_email_and_respond():
 
                     # Process PDF if applicable
                     if filename.lower().endswith('.pdf'):
-                        new_pdf_path = process_pdf(filename)
+                        new_pdf_path, benchmark_path = process_pdf(filename) #TODO
                         if new_pdf_path:
                             name = new_pdf_path.split("_")[0]
 
@@ -82,7 +82,8 @@ def check_email_and_respond():
                                 recipient_email=sender,  # Sending back to the original sender
                                 subject=f"Processed PDF for {name}",
                                 body="Here is the processed PDF.",
-                                attachment_path=new_pdf_path
+                                attachment_path=new_pdf_path,
+                                attachment_bench=benchmark_path
                             )
             
             # Mark as read
@@ -98,14 +99,15 @@ def process_pdf(filename):
         # Process the PDF
         pdf_path = f"attachments/{filename}"
         process_pdf_path = historical_process_data(root_path, api_key, pdf_path)
+        benchmark_pdf_path = combined_benchmarking()
 
-        return process_pdf_path
+        return process_pdf_path, benchmark_pdf_path
 
         
     except Exception as e:
         print(f"Error processing PDF: {e}")
 
-def send_email(recipient_email, subject, body, attachment_path=None, ):
+def send_email(recipient_email, subject, body, attachment_path_historical, attachment_path_benchmark):
     try:
         with smtplib.SMTP_SSL(SMTP_SERVER, 465) as smtp:
             smtp.login(EMAIL_ADDRESS, EMAIL_PASSWORD)
@@ -116,14 +118,19 @@ def send_email(recipient_email, subject, body, attachment_path=None, ):
             msg.set_content(body)
 
             # Attach a file if provided
-            if attachment_path:
-                with open(attachment_path, 'rb') as f:
+            if attachment_path_historical:
+                with open(attachment_path_historical, 'rb') as f:
                     file_data = f.read()
-                    file_name = os.path.basename(attachment_path)
+                    file_name = os.path.basename(attachment_path_historical)
+                    msg.add_attachment(file_data, maintype='application', subtype='pdf', filename=file_name)
+
+            if attachment_path_benchmark:
+                with open(attachment_path_benchmark, 'rb') as f:
+                    file_data = f.read()
+                    file_name = os.path.basename(attachment_path_benchmark)
                     msg.add_attachment(file_data, maintype='application', subtype='pdf', filename=file_name)
 
             smtp.send_message(msg)
-            print(f"Sent email to {recipient_email} with attachment: {attachment_path if attachment_path else 'None'}")
     except Exception as e:
         print(f"Error: {e}")
 

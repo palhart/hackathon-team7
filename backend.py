@@ -78,7 +78,7 @@ def get_data_for_domain(domain):
 
 def gpt_competitor_domains(domain):
 
-        client = OpenAI(api_key=os.getenv("OPENAI_KEY"))
+        client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
 
         prompt = f"""
             You are a structured data extraction assistant. Your task is to return a JSON object containing only the domains of competitors for a given company. Always follow this format strictly.
