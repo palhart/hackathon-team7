@@ -1,0 +1,201 @@
+company_name,company_website,quarter,status,industry,location,total_funding_raised,latest_funding_stage,last_funding_date,number_funding_rounds,employee_count_by_country,number_of_visits,investors_names
+Stripe,https://stripe.com,Q1 2020,Inactive,Education,Australia,119.01,Seed,17/01/2021,2,"{'USA': 49, 'Germany': 85, 'India': 97}",779799,"Kleiner Perkins, Accel Partners, SoftBank, Andreessen Horowitz"
+Stripe,https://stripe.com,Q2 2020,Inactive,Retail,India,8.03,Series A,03/06/2022,2,"{'USA': 61, 'Germany': 18, 'India': 15}",447826,Accel Partners
+Stripe,https://stripe.com,Q3 2020,Exited,Healthcare,Australia,100.65,IPO,05/05/2021,5,"{'USA': 361, 'Germany': 41, 'India': 114}",192542,"SoftBank, Andreessen Horowitz"
+Stripe,https://stripe.com,Q4 2020,Exited,Finance,USA,39.35,Seed,20/04/2022,9,"{'USA': 7, 'Germany': 36, 'India': 88}",526124,"SoftBank, Sequoia Capital, Andreessen Horowitz, Kleiner Perkins"
+Stripe,https://stripe.com,Q1 2021,Inactive,Technology,Australia,188.87,Seed,28/12/2023,4,"{'USA': 276, 'Germany': 34, 'India': 144}",815333,"SoftBank, Andreessen Horowitz, Accel Partners, Kleiner Perkins"
+Stripe,https://stripe.com,Q2 2021,Active,Retail,India,24.19,Series C,14/11/2022,3,"{'USA': 178, 'Germany': 10, 'India': 62}",34584,"Sequoia Capital, Andreessen Horowitz, Accel Partners, SoftBank"
+Stripe,https://stripe.com,Q3 2021,Inactive,Finance,Australia,123.27,IPO,20/10/2019,4,"{'USA': 398, 'Germany': 22, 'India': 179}",680807,Kleiner Perkins
+Stripe,https://stripe.com,Q4 2021,Exited,Technology,India,90.09,Series C,06/05/2020,3,"{'USA': 4, 'Germany': 3, 'India': 1}",363528,"Kleiner Perkins, Accel Partners"
+Stripe,https://stripe.com,Q1 2022,Active,Technology,Germany,73.37,Series B,02/08/2021,7,"{'USA': 237, 'Germany': 10, 'India': 23}",384204,"Accel Partners, SoftBank, Andreessen Horowitz, Kleiner Perkins"
+Stripe,https://stripe.com,Q2 2022,Active,Finance,India,34.02,Series B,16/08/2023,5,"{'USA': 27, 'Germany': 62, 'India': 171}",333297,"SoftBank, Andreessen Horowitz"
+Stripe,https://stripe.com,Q3 2022,Exited,Healthcare,Canada,114.91,Series A,25/03/2020,1,"{'USA': 229, 'Germany': 142, 'India': 70}",980009,"Sequoia Capital, Andreessen Horowitz"
+Stripe,https://stripe.com,Q4 2022,Inactive,Retail,Australia,66.29,Seed,02/10/2022,7,"{'USA': 21, 'Germany': 38, 'India': 63}",534540,"Sequoia Capital, SoftBank, Kleiner Perkins, Accel Partners"
+Stripe,https://stripe.com,Q1 2023,Exited,Retail,Canada,2.48,Seed,04/01/2020,5,"{'USA': 19, 'Germany': 37, 'India': 15}",122094,"Accel Partners, Sequoia Capital, Andreessen Horowitz"
+Stripe,https://stripe.com,Q2 2023,Active,Technology,Germany,170.71,IPO,24/08/2022,9,"{'USA': 285, 'Germany': 66, 'India': 56}",359692,"Andreessen Horowitz, Sequoia Capital, SoftBank"
+Stripe,https://stripe.com,Q3 2023,Exited,Education,India,190.79,Series C,05/09/2020,2,"{'USA': 69, 'Germany': 93, 'India': 104}",497166,"SoftBank, Accel Partners"
+Stripe,https://stripe.com,Q4 2023,Active,Education,Australia,44.2,Seed,20/04/2020,9,"{'USA': 257, 'Germany': 200, 'India': 206}",366896,Kleiner Perkins
+Stripe,https://stripe.com,Q1 2024,Active,Finance,India,132.79,Series C,05/05/2022,7,"{'USA': 174, 'Germany': 74, 'India': 148}",134679,"Andreessen Horowitz, Sequoia Capital, SoftBank, Accel Partners"
+Stripe,https://stripe.com,Q2 2024,Active,Healthcare,Canada,167.36,Series A,19/11/2019,3,"{'USA': 417, 'Germany': 119, 'India': 1}",208639,"SoftBank, Kleiner Perkins, Accel Partners, Andreessen Horowitz, Sequoia Capital"
+Stripe,https://stripe.com,Q3 2024,Active,Education,Australia,33.5,Series C,17/10/2022,6,"{'USA': 20, 'Germany': 53, 'India': 47}",37304,"Andreessen Horowitz, Sequoia Capital, SoftBank, Kleiner Perkins, Accel Partners"
+Stripe,https://stripe.com,Q4 2024,Inactive,Healthcare,India,178.85,Series B,02/01/2019,1,"{'USA': 347, 'Germany': 183, 'India': 160}",446079,"SoftBank, Accel Partners, Sequoia Capital, Andreessen Horowitz"
+SpaceX,https://www.spacex.com,Q1 2020,Inactive,Finance,Germany,53.22,Series C,17/04/2023,3,"{'USA': 40, 'Germany': 8, 'India': 15}",830192,"Andreessen Horowitz, Accel Partners, Kleiner Perkins, SoftBank, Sequoia Capital"
+SpaceX,https://www.spacex.com,Q2 2020,Inactive,Healthcare,Canada,160.36,Series B,25/02/2019,2,"{'USA': 8, 'Germany': 2, 'India': 32}",172396,SoftBank
+SpaceX,https://www.spacex.com,Q3 2020,Exited,Healthcare,India,84.15,IPO,19/06/2023,4,"{'USA': 262, 'Germany': 97, 'India': 30}",740523,"SoftBank, Sequoia Capital, Kleiner Perkins"
+SpaceX,https://www.spacex.com,Q4 2020,Active,Finance,USA,57.75,Seed,22/03/2023,8,"{'USA': 305, 'Germany': 30, 'India': 177}",406557,"SoftBank, Accel Partners, Kleiner Perkins"
+SpaceX,https://www.spacex.com,Q1 2021,Exited,Education,Canada,45.2,Series C,26/04/2023,1,"{'USA': 314, 'Germany': 129, 'India': 56}",148425,"Andreessen Horowitz, Sequoia Capital, Kleiner Perkins, Accel Partners"
+SpaceX,https://www.spacex.com,Q2 2021,Inactive,Technology,Germany,175.09,Series B,13/03/2020,10,"{'USA': 130, 'Germany': 66, 'India': 64}",429576,"Andreessen Horowitz, Sequoia Capital, SoftBank"
+SpaceX,https://www.spacex.com,Q3 2021,Exited,Technology,India,72.97,IPO,06/03/2022,9,"{'USA': 28, 'Germany': 7, 'India': 2}",205109,"SoftBank, Kleiner Perkins, Accel Partners, Sequoia Capital"
+SpaceX,https://www.spacex.com,Q4 2021,Active,Education,Australia,33.9,Seed,28/03/2022,4,"{'USA': 63, 'Germany': 35, 'India': 92}",691599,"Sequoia Capital, Accel Partners, Kleiner Perkins, SoftBank"
+SpaceX,https://www.spacex.com,Q1 2022,Inactive,Technology,India,74.5,Seed,31/03/2023,2,"{'USA': 99, 'Germany': 65, 'India': 84}",665792,"Accel Partners, Kleiner Perkins, Andreessen Horowitz"
+SpaceX,https://www.spacex.com,Q2 2022,Exited,Retail,USA,182.13,Series B,29/01/2020,2,"{'USA': 214, 'Germany': 99, 'India': 14}",823034,"Kleiner Perkins, Sequoia Capital, SoftBank"
+SpaceX,https://www.spacex.com,Q3 2022,Active,Retail,Australia,86.75,Series A,12/09/2019,1,"{'USA': 420, 'Germany': 57, 'India': 173}",931374,Kleiner Perkins
+SpaceX,https://www.spacex.com,Q4 2022,Active,Finance,India,81.06,Series A,02/11/2022,9,"{'USA': 151, 'Germany': 31, 'India': 87}",602227,"Sequoia Capital, SoftBank"
+SpaceX,https://www.spacex.com,Q1 2023,Exited,Education,Australia,136.07,Series C,05/11/2022,7,"{'USA': 1, 'Germany': 63, 'India': 52}",95210,"Andreessen Horowitz, Accel Partners, Sequoia Capital"
+SpaceX,https://www.spacex.com,Q2 2023,Inactive,Healthcare,Canada,170.16,Series C,30/01/2019,3,"{'USA': 91, 'Germany': 11, 'India': 49}",125495,"Accel Partners, Andreessen Horowitz, Kleiner Perkins, Sequoia Capital"
+SpaceX,https://www.spacex.com,Q3 2023,Active,Healthcare,Australia,84.17,Series C,07/10/2021,9,"{'USA': 204, 'Germany': 128, 'India': 65}",874715,Sequoia Capital
+SpaceX,https://www.spacex.com,Q4 2023,Inactive,Retail,Australia,19.96,Series B,24/06/2020,2,"{'USA': 3, 'Germany': 26, 'India': 13}",901859,"Andreessen Horowitz, Sequoia Capital, SoftBank, Kleiner Perkins"
+SpaceX,https://www.spacex.com,Q1 2024,Exited,Technology,India,70.41,Seed,09/07/2019,2,"{'USA': 17, 'Germany': 2, 'India': 5}",465351,Andreessen Horowitz
+SpaceX,https://www.spacex.com,Q2 2024,Inactive,Education,Germany,15.49,Series B,03/03/2019,2,"{'USA': 161, 'Germany': 79, 'India': 20}",593726,"Accel Partners, Sequoia Capital"
+SpaceX,https://www.spacex.com,Q3 2024,Inactive,Education,Canada,34.51,Series A,19/10/2020,9,"{'USA': 88, 'Germany': 172, 'India': 121}",862448,"Andreessen Horowitz, Sequoia Capital, Accel Partners, SoftBank"
+SpaceX,https://www.spacex.com,Q4 2024,Exited,Healthcare,Australia,158.74,Series A,24/11/2019,7,"{'USA': 56, 'Germany': 37, 'India': 9}",837232,"Accel Partners, Andreessen Horowitz, SoftBank, Kleiner Perkins, Sequoia Capital"
+Instacart,https://www.instacart.com,Q1 2020,Exited,Technology,Germany,106.31,Series B,03/11/2019,7,"{'USA': 442, 'Germany': 121, 'India': 3}",222327,"Andreessen Horowitz, SoftBank, Accel Partners, Kleiner Perkins"
+Instacart,https://www.instacart.com,Q2 2020,Inactive,Technology,USA,89.22,Series A,22/09/2023,9,"{'USA': 115, 'Germany': 27, 'India': 37}",283524,"SoftBank, Accel Partners, Kleiner Perkins, Andreessen Horowitz, Sequoia Capital"
+Instacart,https://www.instacart.com,Q3 2020,Inactive,Technology,USA,53.73,Series B,25/07/2022,3,"{'USA': 15, 'Germany': 37, 'India': 6}",244269,Andreessen Horowitz
+Instacart,https://www.instacart.com,Q4 2020,Exited,Healthcare,India,88.61,IPO,07/11/2023,8,"{'USA': 133, 'Germany': 60, 'India': 57}",610032,"Accel Partners, Sequoia Capital, SoftBank, Andreessen Horowitz"
+Instacart,https://www.instacart.com,Q1 2021,Exited,Education,Australia,168.12,Series A,17/10/2020,8,"{'USA': 5, 'Germany': 15, 'India': 59}",62868,"Andreessen Horowitz, Accel Partners"
+Instacart,https://www.instacart.com,Q2 2021,Active,Finance,India,185.03,Series B,03/01/2019,10,"{'USA': 78, 'Germany': 82, 'India': 46}",747487,Accel Partners
+Instacart,https://www.instacart.com,Q3 2021,Exited,Healthcare,Canada,132.5,Series B,10/12/2022,8,"{'USA': 61, 'Germany': 24, 'India': 15}",173771,"Accel Partners, Sequoia Capital, Andreessen Horowitz"
+Instacart,https://www.instacart.com,Q4 2021,Active,Technology,Canada,11.7,IPO,16/02/2023,8,"{'USA': 48, 'Germany': 49, 'India': 52}",367778,"Kleiner Perkins, SoftBank, Andreessen Horowitz, Accel Partners, Sequoia Capital"
+Instacart,https://www.instacart.com,Q1 2022,Active,Finance,USA,62.55,Series B,30/05/2021,8,"{'USA': 140, 'Germany': 3, 'India': 93}",729403,"Accel Partners, SoftBank, Andreessen Horowitz, Sequoia Capital, Kleiner Perkins"
+Instacart,https://www.instacart.com,Q2 2022,Exited,Education,India,179.52,Seed,18/01/2021,5,"{'USA': 23, 'Germany': 7, 'India': 5}",397575,Accel Partners
+Instacart,https://www.instacart.com,Q3 2022,Inactive,Technology,Germany,159.55,IPO,25/12/2020,8,"{'USA': 57, 'Germany': 26, 'India': 63}",710956,"Sequoia Capital, Andreessen Horowitz"
+Instacart,https://www.instacart.com,Q4 2022,Inactive,Finance,Australia,168.56,Seed,05/06/2021,8,"{'USA': 119, 'Germany': 98, 'India': 135}",857425,Andreessen Horowitz
+Instacart,https://www.instacart.com,Q1 2023,Active,Healthcare,USA,196.58,IPO,23/10/2022,6,"{'USA': 133, 'Germany': 37, 'India': 80}",424680,"SoftBank, Andreessen Horowitz, Accel Partners, Kleiner Perkins"
+Instacart,https://www.instacart.com,Q2 2023,Exited,Healthcare,India,190.71,IPO,28/12/2020,4,"{'USA': 19, 'Germany': 10, 'India': 3}",593080,"Kleiner Perkins, Sequoia Capital, Andreessen Horowitz"
+Instacart,https://www.instacart.com,Q3 2023,Exited,Technology,Australia,17.2,Series B,27/03/2023,3,"{'USA': 167, 'Germany': 20, 'India': 201}",482135,"Sequoia Capital, Kleiner Perkins, SoftBank"
+Instacart,https://www.instacart.com,Q4 2023,Active,Healthcare,Canada,42.18,IPO,10/08/2023,5,"{'USA': 65, 'Germany': 40, 'India': 44}",379641,"Kleiner Perkins, SoftBank, Andreessen Horowitz, Accel Partners, Sequoia Capital"
+Instacart,https://www.instacart.com,Q1 2024,Inactive,Finance,Australia,88.12,Series B,13/03/2020,2,"{'USA': 59, 'Germany': 5, 'India': 29}",40786,Andreessen Horowitz
+Instacart,https://www.instacart.com,Q2 2024,Active,Healthcare,Australia,10.89,IPO,06/04/2023,8,"{'USA': 334, 'Germany': 190, 'India': 159}",789638,"SoftBank, Accel Partners, Kleiner Perkins, Sequoia Capital, Andreessen Horowitz"
+Instacart,https://www.instacart.com,Q3 2024,Exited,Education,USA,156.04,Series A,12/11/2022,9,"{'USA': 15, 'Germany': 118, 'India': 55}",677612,"Andreessen Horowitz, Accel Partners, Sequoia Capital, SoftBank, Kleiner Perkins"
+Instacart,https://www.instacart.com,Q4 2024,Exited,Finance,Canada,175.61,IPO,08/03/2020,4,"{'USA': 3, 'Germany': 2, 'India': 7}",217122,"Sequoia Capital, SoftBank"
+Epic Games,https://www.epicgames.com,Q1 2020,Exited,Retail,USA,165.4,Series A,05/12/2022,4,"{'USA': 9, 'Germany': 3, 'India': 4}",832198,"Accel Partners, Sequoia Capital, Andreessen Horowitz"
+Epic Games,https://www.epicgames.com,Q2 2020,Exited,Technology,Germany,173.94,Series B,18/02/2021,6,"{'USA': 137, 'Germany': 98, 'India': 200}",528212,"Kleiner Perkins, Accel Partners, Andreessen Horowitz"
+Epic Games,https://www.epicgames.com,Q3 2020,Inactive,Finance,Germany,82.69,Series C,26/04/2020,9,"{'USA': 154, 'Germany': 51, 'India': 164}",130269,"SoftBank, Kleiner Perkins, Sequoia Capital, Andreessen Horowitz"
+Epic Games,https://www.epicgames.com,Q4 2020,Active,Retail,India,143.41,Series A,18/06/2020,5,"{'USA': 147, 'Germany': 115, 'India': 75}",45163,"Accel Partners, Sequoia Capital, Kleiner Perkins, SoftBank"
+Epic Games,https://www.epicgames.com,Q1 2021,Inactive,Education,India,185.41,Series A,13/01/2021,9,"{'USA': 46, 'Germany': 61, 'India': 55}",824771,Sequoia Capital
+Epic Games,https://www.epicgames.com,Q2 2021,Inactive,Education,Canada,103.37,Series C,13/12/2019,7,"{'USA': 171, 'Germany': 110, 'India': 43}",547173,"Kleiner Perkins, Sequoia Capital, SoftBank, Andreessen Horowitz, Accel Partners"
+Epic Games,https://www.epicgames.com,Q3 2021,Inactive,Retail,Germany,92.03,Seed,19/07/2020,7,"{'USA': 129, 'Germany': 40, 'India': 39}",524289,"Kleiner Perkins, Andreessen Horowitz, Accel Partners"
+Epic Games,https://www.epicgames.com,Q4 2021,Inactive,Technology,India,125.72,IPO,28/06/2023,7,"{'USA': 89, 'Germany': 15, 'India': 114}",194508,"Andreessen Horowitz, Kleiner Perkins, Accel Partners"
+Epic Games,https://www.epicgames.com,Q1 2022,Exited,Retail,Canada,163,Series C,21/02/2022,5,"{'USA': 93, 'Germany': 14, 'India': 30}",448381,"Kleiner Perkins, Accel Partners, Sequoia Capital, Andreessen Horowitz, SoftBank"
+Epic Games,https://www.epicgames.com,Q2 2022,Exited,Technology,USA,110.8,Series B,22/11/2023,5,"{'USA': 95, 'Germany': 58, 'India': 28}",532822,"Kleiner Perkins, SoftBank"
+Epic Games,https://www.epicgames.com,Q3 2022,Inactive,Education,Australia,176.29,Series C,23/04/2021,10,"{'USA': 146, 'Germany': 97, 'India': 193}",472417,Andreessen Horowitz
+Epic Games,https://www.epicgames.com,Q4 2022,Active,Technology,India,48.67,Series A,27/06/2022,5,"{'USA': 16, 'Germany': 65, 'India': 52}",867246,"Sequoia Capital, Andreessen Horowitz, SoftBank, Accel Partners, Kleiner Perkins"
+Epic Games,https://www.epicgames.com,Q1 2023,Exited,Technology,Australia,153.84,Series C,01/07/2019,1,"{'USA': 16, 'Germany': 7, 'India': 15}",649692,"Accel Partners, Andreessen Horowitz, Sequoia Capital"
+Epic Games,https://www.epicgames.com,Q2 2023,Active,Technology,India,169.23,IPO,18/02/2020,6,"{'USA': 195, 'Germany': 110, 'India': 75}",964261,"Andreessen Horowitz, SoftBank, Accel Partners, Kleiner Perkins, Sequoia Capital"
+Epic Games,https://www.epicgames.com,Q3 2023,Exited,Healthcare,USA,195.05,Seed,14/05/2023,9,"{'USA': 251, 'Germany': 113, 'India': 80}",722914,Kleiner Perkins
+Epic Games,https://www.epicgames.com,Q4 2023,Active,Retail,Australia,41.35,Seed,21/04/2020,3,"{'USA': 142, 'Germany': 32, 'India': 154}",992353,"Sequoia Capital, Accel Partners, Kleiner Perkins, SoftBank, Andreessen Horowitz"
+Epic Games,https://www.epicgames.com,Q1 2024,Active,Healthcare,USA,101.83,Series B,28/06/2023,6,"{'USA': 188, 'Germany': 170, 'India': 120}",227994,Andreessen Horowitz
+Epic Games,https://www.epicgames.com,Q2 2024,Active,Technology,India,141.15,Seed,24/09/2023,3,"{'USA': 136, 'Germany': 82, 'India': 2}",939665,Kleiner Perkins
+Epic Games,https://www.epicgames.com,Q3 2024,Active,Retail,USA,169.89,Seed,06/07/2021,3,"{'USA': 72, 'Germany': 37, 'India': 64}",283944,"Accel Partners, Sequoia Capital, SoftBank, Andreessen Horowitz, Kleiner Perkins"
+Epic Games,https://www.epicgames.com,Q4 2024,Exited,Finance,Australia,1.28,Series A,20/09/2020,4,"{'USA': 159, 'Germany': 37, 'India': 92}",784247,"Accel Partners, Kleiner Perkins, SoftBank, Sequoia Capital"
+Databricks,https://databricks.com,Q1 2020,Inactive,Education,Germany,71.61,Series A,19/11/2019,8,"{'USA': 63, 'Germany': 64, 'India': 4}",718443,"Andreessen Horowitz, SoftBank, Kleiner Perkins"
+Databricks,https://databricks.com,Q2 2020,Inactive,Finance,Germany,21.98,Series A,30/08/2019,3,"{'USA': 374, 'Germany': 58, 'India': 153}",680258,Kleiner Perkins
+Databricks,https://databricks.com,Q3 2020,Exited,Retail,India,163.48,Series A,04/12/2019,10,"{'USA': 469, 'Germany': 100, 'India': 119}",579837,"SoftBank, Andreessen Horowitz, Accel Partners, Sequoia Capital"
+Databricks,https://databricks.com,Q4 2020,Active,Technology,India,74.6,IPO,07/09/2022,7,"{'USA': 2, 'Germany': 6, 'India': 3}",866977,"Andreessen Horowitz, Sequoia Capital, Kleiner Perkins"
+Databricks,https://databricks.com,Q1 2021,Active,Retail,Germany,140.8,Series B,14/10/2019,6,"{'USA': 144, 'Germany': 56, 'India': 62}",200574,Kleiner Perkins
+Databricks,https://databricks.com,Q2 2021,Inactive,Education,Australia,23.37,IPO,09/09/2023,9,"{'USA': 76, 'Germany': 62, 'India': 66}",894381,"Andreessen Horowitz, Kleiner Perkins, Accel Partners, SoftBank"
+Databricks,https://databricks.com,Q3 2021,Inactive,Finance,Germany,191.49,IPO,29/10/2023,7,"{'USA': 13, 'Germany': 162, 'India': 49}",287344,"SoftBank, Kleiner Perkins, Accel Partners, Sequoia Capital"
+Databricks,https://databricks.com,Q4 2021,Inactive,Technology,USA,76.59,Series C,28/06/2022,6,"{'USA': 153, 'Germany': 102, 'India': 139}",603838,"Accel Partners, Andreessen Horowitz, Kleiner Perkins, SoftBank, Sequoia Capital"
+Databricks,https://databricks.com,Q1 2022,Active,Healthcare,Australia,20.91,Series B,29/01/2020,4,"{'USA': 18, 'Germany': 87, 'India': 97}",607153,SoftBank
+Databricks,https://databricks.com,Q2 2022,Active,Finance,Canada,13.44,IPO,09/05/2022,8,"{'USA': 324, 'Germany': 71, 'India': 30}",424922,"Accel Partners, Andreessen Horowitz, Kleiner Perkins"
+Databricks,https://databricks.com,Q3 2022,Active,Education,Germany,42.46,IPO,31/05/2023,4,"{'USA': 45, 'Germany': 91, 'India': 27}",639335,"SoftBank, Andreessen Horowitz, Accel Partners"
+Databricks,https://databricks.com,Q4 2022,Inactive,Education,India,93.17,Seed,17/10/2023,6,"{'USA': 4, 'Germany': 26, 'India': 28}",216877,"Sequoia Capital, SoftBank, Kleiner Perkins, Accel Partners, Andreessen Horowitz"
+Databricks,https://databricks.com,Q1 2023,Exited,Retail,India,191.19,IPO,09/08/2022,1,"{'USA': 13, 'Germany': 5, 'India': 4}",336826,"Sequoia Capital, SoftBank"
+Databricks,https://databricks.com,Q2 2023,Active,Retail,Germany,134.32,Series A,11/04/2019,3,"{'USA': 102, 'Germany': 94, 'India': 80}",124674,Andreessen Horowitz
+Databricks,https://databricks.com,Q3 2023,Exited,Finance,India,99.04,Series B,20/06/2023,4,"{'USA': 110, 'Germany': 81, 'India': 0}",931343,"Accel Partners, Sequoia Capital"
+Databricks,https://databricks.com,Q4 2023,Exited,Healthcare,Canada,111.87,Series B,13/01/2019,9,"{'USA': 16, 'Germany': 178, 'India': 59}",348008,"Kleiner Perkins, Accel Partners, Andreessen Horowitz"
+Databricks,https://databricks.com,Q1 2024,Exited,Retail,Australia,62.68,Series A,29/07/2020,6,"{'USA': 70, 'Germany': 230, 'India': 32}",949236,"Accel Partners, Andreessen Horowitz, Sequoia Capital, Kleiner Perkins"
+Databricks,https://databricks.com,Q2 2024,Active,Education,Australia,45.63,IPO,14/07/2019,8,"{'USA': 269, 'Germany': 85, 'India': 87}",786821,"Kleiner Perkins, Accel Partners"
+Databricks,https://databricks.com,Q3 2024,Exited,Technology,India,29.39,Series C,10/11/2023,3,"{'USA': 217, 'Germany': 83, 'India': 67}",566309,Andreessen Horowitz
+Databricks,https://databricks.com,Q4 2024,Exited,Finance,India,65.94,IPO,16/05/2022,5,"{'USA': 5, 'Germany': 38, 'India': 29}",165137,"Andreessen Horowitz, Kleiner Perkins, SoftBank, Accel Partners"
+Klarna,https://www.klarna.com,Q1 2020,Inactive,Education,India,191.65,Series A,17/11/2021,6,"{'USA': 54, 'Germany': 0, 'India': 10}",404907,Kleiner Perkins
+Klarna,https://www.klarna.com,Q2 2020,Active,Retail,Germany,172.48,Series A,08/06/2019,5,"{'USA': 402, 'Germany': 155, 'India': 8}",549503,"SoftBank, Andreessen Horowitz"
+Klarna,https://www.klarna.com,Q3 2020,Active,Retail,USA,60.3,Series C,10/06/2022,2,"{'USA': 28, 'Germany': 8, 'India': 29}",90289,Sequoia Capital
+Klarna,https://www.klarna.com,Q4 2020,Inactive,Education,Canada,170.89,Series C,28/02/2023,1,"{'USA': 243, 'Germany': 62, 'India': 109}",773406,Sequoia Capital
+Klarna,https://www.klarna.com,Q1 2021,Exited,Retail,Canada,100.24,Series B,29/05/2020,1,"{'USA': 241, 'Germany': 162, 'India': 82}",80171,"Kleiner Perkins, Andreessen Horowitz, SoftBank, Sequoia Capital, Accel Partners"
+Klarna,https://www.klarna.com,Q2 2021,Active,Education,India,45.93,IPO,10/05/2019,9,"{'USA': 16, 'Germany': 68, 'India': 48}",268028,"Kleiner Perkins, Accel Partners, Sequoia Capital"
+Klarna,https://www.klarna.com,Q3 2021,Active,Finance,USA,27.53,IPO,20/06/2023,2,"{'USA': 320, 'Germany': 95, 'India': 105}",362051,"Accel Partners, SoftBank, Andreessen Horowitz"
+Klarna,https://www.klarna.com,Q4 2021,Exited,Technology,Canada,189.74,Series B,04/02/2021,9,"{'USA': 310, 'Germany': 177, 'India': 147}",226495,Accel Partners
+Klarna,https://www.klarna.com,Q1 2022,Exited,Retail,Germany,45.02,Series C,23/09/2019,6,"{'USA': 264, 'Germany': 212, 'India': 44}",692600,"Andreessen Horowitz, Accel Partners, Sequoia Capital"
+Klarna,https://www.klarna.com,Q2 2022,Exited,Retail,India,94.77,IPO,17/02/2023,2,"{'USA': 46, 'Germany': 27, 'India': 39}",184438,"SoftBank, Kleiner Perkins, Andreessen Horowitz, Sequoia Capital"
+Klarna,https://www.klarna.com,Q3 2022,Active,Technology,Germany,110.67,Series C,16/03/2019,5,"{'USA': 6, 'Germany': 47, 'India': 46}",929899,"Sequoia Capital, Kleiner Perkins, Accel Partners"
+Klarna,https://www.klarna.com,Q4 2022,Inactive,Healthcare,USA,107.83,Series A,16/05/2022,1,"{'USA': 306, 'Germany': 91, 'India': 177}",1746,Accel Partners
+Klarna,https://www.klarna.com,Q1 2023,Active,Finance,Australia,148.1,Series C,08/10/2023,3,"{'USA': 53, 'Germany': 1, 'India': 27}",782905,"SoftBank, Accel Partners"
+Klarna,https://www.klarna.com,Q2 2023,Inactive,Technology,USA,47.7,Seed,07/09/2022,8,"{'USA': 82, 'Germany': 17, 'India': 54}",173873,"Sequoia Capital, Kleiner Perkins"
+Klarna,https://www.klarna.com,Q3 2023,Exited,Education,India,196.88,IPO,24/06/2019,8,"{'USA': 32, 'Germany': 94, 'India': 31}",956846,"SoftBank, Accel Partners, Andreessen Horowitz"
+Klarna,https://www.klarna.com,Q4 2023,Inactive,Finance,Australia,123.79,IPO,01/08/2022,10,"{'USA': 103, 'Germany': 103, 'India': 75}",668972,Kleiner Perkins
+Klarna,https://www.klarna.com,Q1 2024,Exited,Retail,India,74.76,Seed,06/04/2020,3,"{'USA': 93, 'Germany': 144, 'India': 5}",521420,"Kleiner Perkins, SoftBank"
+Klarna,https://www.klarna.com,Q2 2024,Active,Retail,India,131.69,Series B,17/12/2020,3,"{'USA': 74, 'Germany': 44, 'India': 25}",369977,"Accel Partners, Andreessen Horowitz, Sequoia Capital, Kleiner Perkins"
+Klarna,https://www.klarna.com,Q3 2024,Active,Education,India,174.55,Series C,14/08/2019,1,"{'USA': 57, 'Germany': 15, 'India': 12}",564094,"Sequoia Capital, Accel Partners, Andreessen Horowitz, SoftBank, Kleiner Perkins"
+Klarna,https://www.klarna.com,Q4 2024,Inactive,Technology,Australia,132.49,Series B,01/01/2023,3,"{'USA': 80, 'Germany': 154, 'India': 72}",376886,"Accel Partners, SoftBank, Kleiner Perkins, Sequoia Capital, Andreessen Horowitz"
+Chime,https://www.chime.com,Q1 2020,Exited,Finance,USA,93.21,Series C,26/02/2021,9,"{'USA': 233, 'Germany': 36, 'India': 23}",280954,"Andreessen Horowitz, Sequoia Capital, Kleiner Perkins, Accel Partners, SoftBank"
+Chime,https://www.chime.com,Q2 2020,Active,Education,Canada,111.3,Series C,01/08/2022,2,"{'USA': 16, 'Germany': 1, 'India': 8}",963936,"Accel Partners, SoftBank, Andreessen Horowitz, Kleiner Perkins, Sequoia Capital"
+Chime,https://www.chime.com,Q3 2020,Active,Technology,Canada,145.93,IPO,17/12/2023,8,"{'USA': 46, 'Germany': 106, 'India': 114}",67555,"Andreessen Horowitz, Kleiner Perkins, SoftBank"
+Chime,https://www.chime.com,Q4 2020,Inactive,Retail,Australia,11.41,Seed,31/12/2020,6,"{'USA': 141, 'Germany': 66, 'India': 38}",175810,Sequoia Capital
+Chime,https://www.chime.com,Q1 2021,Exited,Technology,Canada,135.48,Series A,29/10/2023,3,"{'USA': 129, 'Germany': 38, 'India': 59}",563868,"Accel Partners, Sequoia Capital"
+Chime,https://www.chime.com,Q2 2021,Inactive,Technology,Australia,159.42,Series B,15/04/2022,6,"{'USA': 45, 'Germany': 99, 'India': 3}",390549,"Andreessen Horowitz, SoftBank"
+Chime,https://www.chime.com,Q3 2021,Active,Technology,Canada,88.46,IPO,15/09/2021,2,"{'USA': 15, 'Germany': 42, 'India': 63}",659698,"Accel Partners, Sequoia Capital, Kleiner Perkins, Andreessen Horowitz"
+Chime,https://www.chime.com,Q4 2021,Exited,Retail,USA,162.4,Series C,04/11/2021,9,"{'USA': 33, 'Germany': 107, 'India': 93}",608222,"Sequoia Capital, Kleiner Perkins, Andreessen Horowitz"
+Chime,https://www.chime.com,Q1 2022,Active,Technology,USA,119.51,Series B,10/09/2021,3,"{'USA': 109, 'Germany': 137, 'India': 64}",730573,"Accel Partners, Kleiner Perkins"
+Chime,https://www.chime.com,Q2 2022,Exited,Finance,Australia,43.68,IPO,24/07/2023,3,"{'USA': 44, 'Germany': 18, 'India': 6}",479303,"Andreessen Horowitz, Accel Partners, SoftBank"
+Chime,https://www.chime.com,Q3 2022,Exited,Healthcare,Canada,111.39,Seed,03/08/2022,10,"{'USA': 7, 'Germany': 25, 'India': 30}",812375,"Andreessen Horowitz, Kleiner Perkins, Sequoia Capital, SoftBank, Accel Partners"
+Chime,https://www.chime.com,Q4 2022,Active,Healthcare,USA,154.79,Seed,24/01/2020,1,"{'USA': 311, 'Germany': 118, 'India': 130}",836344,"Sequoia Capital, SoftBank, Accel Partners, Kleiner Perkins, Andreessen Horowitz"
+Chime,https://www.chime.com,Q1 2023,Exited,Technology,India,128.69,Series A,18/12/2023,5,"{'USA': 18, 'Germany': 7, 'India': 32}",583469,"Kleiner Perkins, Andreessen Horowitz, SoftBank, Sequoia Capital"
+Chime,https://www.chime.com,Q2 2023,Exited,Technology,Australia,197.1,Series A,03/04/2022,9,"{'USA': 218, 'Germany': 38, 'India': 79}",147238,SoftBank
+Chime,https://www.chime.com,Q3 2023,Exited,Retail,USA,178.79,Seed,01/06/2020,10,"{'USA': 244, 'Germany': 200, 'India': 144}",525069,"Andreessen Horowitz, Kleiner Perkins, Sequoia Capital, Accel Partners, SoftBank"
+Chime,https://www.chime.com,Q4 2023,Inactive,Finance,Australia,110.11,IPO,05/11/2019,1,"{'USA': 119, 'Germany': 113, 'India': 23}",124614,"Sequoia Capital, SoftBank, Accel Partners, Andreessen Horowitz, Kleiner Perkins"
+Chime,https://www.chime.com,Q1 2024,Exited,Technology,USA,28.42,Series B,31/05/2021,7,"{'USA': 56, 'Germany': 189, 'India': 91}",796861,"Accel Partners, Andreessen Horowitz, SoftBank, Sequoia Capital"
+Chime,https://www.chime.com,Q2 2024,Inactive,Education,Canada,168.8,Series C,20/08/2019,10,"{'USA': 64, 'Germany': 67, 'India': 10}",502725,Andreessen Horowitz
+Chime,https://www.chime.com,Q3 2024,Inactive,Healthcare,Australia,192.44,Series A,15/04/2019,2,"{'USA': 72, 'Germany': 24, 'India': 25}",821101,"SoftBank, Andreessen Horowitz, Accel Partners, Kleiner Perkins, Sequoia Capital"
+Chime,https://www.chime.com,Q4 2024,Inactive,Finance,Canada,43.76,Seed,08/04/2020,3,"{'USA': 213, 'Germany': 59, 'India': 51}",945045,"Kleiner Perkins, Andreessen Horowitz, Sequoia Capital"
+Discord,https://discord.com,Q1 2020,Exited,Retail,USA,88.23,Series C,29/11/2020,10,"{'USA': 44, 'Germany': 95, 'India': 26}",485815,"Kleiner Perkins, Accel Partners, SoftBank, Andreessen Horowitz, Sequoia Capital"
+Discord,https://discord.com,Q2 2020,Exited,Retail,USA,187.75,Series C,27/06/2021,10,"{'USA': 106, 'Germany': 45, 'India': 38}",581177,"Accel Partners, Kleiner Perkins, Andreessen Horowitz"
+Discord,https://discord.com,Q3 2020,Inactive,Education,Canada,109.3,Series B,28/08/2022,1,"{'USA': 245, 'Germany': 116, 'India': 163}",142548,"SoftBank, Andreessen Horowitz, Sequoia Capital, Accel Partners, Kleiner Perkins"
+Discord,https://discord.com,Q4 2020,Exited,Technology,Australia,194.36,Seed,19/06/2019,7,"{'USA': 199, 'Germany': 124, 'India': 134}",644494,Andreessen Horowitz
+Discord,https://discord.com,Q1 2021,Exited,Healthcare,Australia,164.4,IPO,11/09/2020,5,"{'USA': 64, 'Germany': 64, 'India': 37}",239853,"Andreessen Horowitz, Kleiner Perkins, SoftBank, Accel Partners"
+Discord,https://discord.com,Q2 2021,Active,Retail,Canada,138.16,IPO,06/10/2020,10,"{'USA': 75, 'Germany': 33, 'India': 66}",478142,"SoftBank, Accel Partners, Kleiner Perkins, Sequoia Capital"
+Discord,https://discord.com,Q3 2021,Active,Healthcare,Canada,105.04,Series C,15/12/2019,6,"{'USA': 63, 'Germany': 16, 'India': 63}",413396,"Andreessen Horowitz, SoftBank, Sequoia Capital"
+Discord,https://discord.com,Q4 2021,Active,Technology,Canada,64.14,Series C,19/08/2022,3,"{'USA': 24, 'Germany': 35, 'India': 23}",779662,"SoftBank, Accel Partners, Andreessen Horowitz"
+Discord,https://discord.com,Q1 2022,Exited,Finance,Australia,34.34,Series B,04/07/2021,2,"{'USA': 161, 'Germany': 23, 'India': 75}",284310,"Accel Partners, Kleiner Perkins, Sequoia Capital, SoftBank"
+Discord,https://discord.com,Q2 2022,Exited,Education,India,52.48,Seed,23/07/2019,2,"{'USA': 52, 'Germany': 68, 'India': 32}",255743,"SoftBank, Accel Partners"
+Discord,https://discord.com,Q3 2022,Exited,Technology,Germany,127.27,IPO,10/08/2022,1,"{'USA': 30, 'Germany': 122, 'India': 4}",587631,Accel Partners
+Discord,https://discord.com,Q4 2022,Exited,Technology,USA,32.25,Series C,30/08/2021,6,"{'USA': 27, 'Germany': 12, 'India': 36}",585466,"Andreessen Horowitz, Accel Partners, Sequoia Capital, Kleiner Perkins"
+Discord,https://discord.com,Q1 2023,Active,Retail,USA,75.25,Series A,12/12/2021,6,"{'USA': 476, 'Germany': 214, 'India': 143}",161080,"Kleiner Perkins, Accel Partners, Sequoia Capital"
+Discord,https://discord.com,Q2 2023,Exited,Retail,Canada,114.67,IPO,27/07/2021,3,"{'USA': 33, 'Germany': 6, 'India': 1}",18228,"Accel Partners, Andreessen Horowitz, SoftBank"
+Discord,https://discord.com,Q3 2023,Inactive,Technology,Canada,69.09,Seed,01/12/2019,5,"{'USA': 41, 'Germany': 26, 'India': 27}",47671,"Andreessen Horowitz, Kleiner Perkins"
+Discord,https://discord.com,Q4 2023,Active,Finance,Canada,121.31,Series A,29/06/2021,3,"{'USA': 84, 'Germany': 107, 'India': 48}",259877,"Andreessen Horowitz, Sequoia Capital"
+Discord,https://discord.com,Q1 2024,Exited,Healthcare,Australia,30.7,Series A,21/04/2019,9,"{'USA': 19, 'Germany': 48, 'India': 50}",26376,"Kleiner Perkins, SoftBank, Andreessen Horowitz, Sequoia Capital, Accel Partners"
+Discord,https://discord.com,Q2 2024,Active,Finance,Germany,45.77,Seed,13/10/2022,6,"{'USA': 38, 'Germany': 4, 'India': 3}",705502,"Kleiner Perkins, Accel Partners, SoftBank"
+Discord,https://discord.com,Q3 2024,Inactive,Education,USA,78.44,Series A,02/09/2023,7,"{'USA': 126, 'Germany': 15, 'India': 23}",257543,"Sequoia Capital, Kleiner Perkins, Accel Partners, Andreessen Horowitz, SoftBank"
+Discord,https://discord.com,Q4 2024,Inactive,Education,USA,109.98,Series B,22/03/2023,4,"{'USA': 14, 'Germany': 5, 'India': 34}",344499,Accel Partners
+Robinhood,https://robinhood.com,Q1 2020,Active,Technology,Canada,59.06,IPO,13/12/2019,3,"{'USA': 6, 'Germany': 18, 'India': 6}",354622,"Andreessen Horowitz, Kleiner Perkins"
+Robinhood,https://robinhood.com,Q2 2020,Inactive,Retail,Germany,119.23,Series A,16/02/2019,8,"{'USA': 184, 'Germany': 93, 'India': 10}",295051,"Kleiner Perkins, Accel Partners, Sequoia Capital"
+Robinhood,https://robinhood.com,Q3 2020,Exited,Finance,USA,8.45,Series B,30/04/2022,9,"{'USA': 135, 'Germany': 55, 'India': 18}",455063,"Sequoia Capital, Accel Partners"
+Robinhood,https://robinhood.com,Q4 2020,Active,Retail,Germany,64.5,Seed,11/10/2022,6,"{'USA': 37, 'Germany': 2, 'India': 16}",687366,"SoftBank, Accel Partners, Kleiner Perkins, Andreessen Horowitz"
+Robinhood,https://robinhood.com,Q1 2021,Exited,Healthcare,Canada,195.41,Seed,01/03/2019,7,"{'USA': 241, 'Germany': 129, 'India': 48}",975182,"Accel Partners, Andreessen Horowitz, Sequoia Capital, Kleiner Perkins, SoftBank"
+Robinhood,https://robinhood.com,Q2 2021,Active,Healthcare,Canada,55.74,Series B,20/03/2020,9,"{'USA': 194, 'Germany': 65, 'India': 94}",71253,"Andreessen Horowitz, Kleiner Perkins"
+Robinhood,https://robinhood.com,Q3 2021,Inactive,Education,Australia,119.94,IPO,13/05/2022,5,"{'USA': 124, 'Germany': 116, 'India': 68}",244585,"Andreessen Horowitz, Accel Partners, SoftBank, Sequoia Capital"
+Robinhood,https://robinhood.com,Q4 2021,Exited,Retail,USA,1.72,Series B,21/04/2022,3,"{'USA': 280, 'Germany': 1, 'India': 85}",890293,"Sequoia Capital, SoftBank, Kleiner Perkins, Accel Partners, Andreessen Horowitz"
+Robinhood,https://robinhood.com,Q1 2022,Inactive,Education,Australia,109.02,IPO,24/07/2019,2,"{'USA': 178, 'Germany': 132, 'India': 29}",266033,"Accel Partners, SoftBank, Sequoia Capital, Kleiner Perkins"
+Robinhood,https://robinhood.com,Q2 2022,Exited,Education,Germany,14.3,IPO,29/08/2020,6,"{'USA': 26, 'Germany': 217, 'India': 194}",697162,"Kleiner Perkins, SoftBank, Andreessen Horowitz, Sequoia Capital"
+Robinhood,https://robinhood.com,Q3 2022,Inactive,Healthcare,Australia,83.69,Series B,05/06/2023,8,"{'USA': 14, 'Germany': 68, 'India': 93}",134244,Kleiner Perkins
+Robinhood,https://robinhood.com,Q4 2022,Exited,Retail,India,158.33,IPO,04/02/2019,2,"{'USA': 145, 'Germany': 107, 'India': 134}",83688,Kleiner Perkins
+Robinhood,https://robinhood.com,Q1 2023,Active,Education,USA,169.06,Seed,18/12/2023,5,"{'USA': 9, 'Germany': 6, 'India': 1}",14304,"Sequoia Capital, SoftBank, Accel Partners, Kleiner Perkins, Andreessen Horowitz"
+Robinhood,https://robinhood.com,Q2 2023,Inactive,Retail,Australia,17.8,Series B,23/12/2023,2,"{'USA': 57, 'Germany': 17, 'India': 50}",157278,"Accel Partners, SoftBank, Sequoia Capital, Kleiner Perkins"
+Robinhood,https://robinhood.com,Q3 2023,Inactive,Retail,USA,15.66,Series A,24/07/2020,9,"{'USA': 301, 'Germany': 39, 'India': 46}",355195,"Accel Partners, Sequoia Capital, SoftBank, Kleiner Perkins"
+Robinhood,https://robinhood.com,Q4 2023,Exited,Retail,Germany,121.24,Series C,23/04/2023,1,"{'USA': 104, 'Germany': 86, 'India': 19}",651541,"Sequoia Capital, Andreessen Horowitz, Kleiner Perkins, SoftBank, Accel Partners"
+Robinhood,https://robinhood.com,Q1 2024,Exited,Education,Australia,95.4,Series A,08/04/2019,8,"{'USA': 69, 'Germany': 19, 'India': 18}",872501,"Accel Partners, Sequoia Capital, Andreessen Horowitz, SoftBank"
+Robinhood,https://robinhood.com,Q2 2024,Inactive,Technology,Australia,18.65,Seed,22/07/2023,6,"{'USA': 110, 'Germany': 48, 'India': 44}",646847,"Kleiner Perkins, Sequoia Capital"
+Robinhood,https://robinhood.com,Q3 2024,Exited,Healthcare,India,17.15,Series A,28/07/2021,1,"{'USA': 215, 'Germany': 23, 'India': 48}",959042,SoftBank
+Robinhood,https://robinhood.com,Q4 2024,Active,Healthcare,India,13.11,Seed,15/02/2020,5,"{'USA': 62, 'Germany': 27, 'India': 19}",306235,"Andreessen Horowitz, SoftBank"
+Plaid,https://plaid.com,Q1 2020,Inactive,Education,Germany,39.16,Seed,13/01/2020,4,"{'USA': 19, 'Germany': 3, 'India': 5}",349800,"SoftBank, Sequoia Capital, Andreessen Horowitz, Accel Partners"
+Plaid,https://plaid.com,Q2 2020,Active,Retail,Canada,111.48,Seed,05/01/2022,4,"{'USA': 327, 'Germany': 63, 'India': 104}",427406,"Sequoia Capital, Andreessen Horowitz, Accel Partners, SoftBank"
+Plaid,https://plaid.com,Q3 2020,Inactive,Healthcare,Germany,22.35,Series A,27/03/2019,6,"{'USA': 260, 'Germany': 17, 'India': 52}",70841,"Andreessen Horowitz, Accel Partners, Sequoia Capital, Kleiner Perkins, SoftBank"
+Plaid,https://plaid.com,Q4 2020,Exited,Retail,Germany,74.64,Series A,10/03/2019,6,"{'USA': 37, 'Germany': 11, 'India': 19}",581697,"Kleiner Perkins, SoftBank"
+Plaid,https://plaid.com,Q1 2021,Inactive,Healthcare,Australia,51.78,Seed,28/02/2020,9,"{'USA': 127, 'Germany': 83, 'India': 87}",38046,"Accel Partners, SoftBank, Kleiner Perkins"
+Plaid,https://plaid.com,Q2 2021,Active,Education,Australia,32.04,Series B,17/03/2020,3,"{'USA': 24, 'Germany': 59, 'India': 33}",263716,"Kleiner Perkins, Accel Partners"
+Plaid,https://plaid.com,Q3 2021,Active,Retail,Australia,7.59,Seed,02/10/2022,7,"{'USA': 355, 'Germany': 50, 'India': 157}",505007,"Andreessen Horowitz, Sequoia Capital, SoftBank, Accel Partners"
+Plaid,https://plaid.com,Q4 2021,Inactive,Education,Australia,56.1,IPO,20/11/2020,6,"{'USA': 170, 'Germany': 17, 'India': 58}",44872,"Sequoia Capital, SoftBank, Accel Partners, Kleiner Perkins, Andreessen Horowitz"
+Plaid,https://plaid.com,Q1 2022,Exited,Technology,Germany,31.51,IPO,04/04/2022,4,"{'USA': 180, 'Germany': 22, 'India': 23}",281542,"Sequoia Capital, Kleiner Perkins"
+Plaid,https://plaid.com,Q2 2022,Inactive,Education,India,125.77,IPO,09/09/2020,9,"{'USA': 207, 'Germany': 107, 'India': 83}",363662,"Andreessen Horowitz, Kleiner Perkins"
+Plaid,https://plaid.com,Q3 2022,Inactive,Healthcare,Australia,119.43,Series A,18/11/2023,10,"{'USA': 119, 'Germany': 35, 'India': 8}",85403,"SoftBank, Kleiner Perkins, Sequoia Capital"
+Plaid,https://plaid.com,Q4 2022,Inactive,Technology,USA,101.14,Series C,21/08/2022,3,"{'USA': 47, 'Germany': 8, 'India': 20}",217938,"Sequoia Capital, Accel Partners, Kleiner Perkins"
+Plaid,https://plaid.com,Q1 2023,Exited,Education,Canada,177.1,Series A,22/01/2023,8,"{'USA': 37, 'Germany': 177, 'India': 213}",956940,"Accel Partners, Kleiner Perkins, Sequoia Capital, Andreessen Horowitz, SoftBank"
+Plaid,https://plaid.com,Q2 2023,Exited,Finance,USA,9.59,Series B,31/10/2023,1,"{'USA': 22, 'Germany': 4, 'India': 24}",17403,"Accel Partners, SoftBank"
+Plaid,https://plaid.com,Q3 2023,Active,Finance,Canada,90.07,Series B,28/01/2023,3,"{'USA': 312, 'Germany': 24, 'India': 158}",900964,"Kleiner Perkins, SoftBank, Accel Partners"
+Plaid,https://plaid.com,Q4 2023,Exited,Retail,USA,126.53,Series B,14/11/2021,6,"{'USA': 150, 'Germany': 1, 'India': 95}",227979,"Accel Partners, SoftBank"
+Plaid,https://plaid.com,Q1 2024,Exited,Education,Australia,123.5,Series C,19/02/2020,10,"{'USA': 38, 'Germany': 48, 'India': 24}",715060,"SoftBank, Kleiner Perkins, Accel Partners, Andreessen Horowitz"
+Plaid,https://plaid.com,Q2 2024,Exited,Education,Australia,34.12,Series A,01/03/2021,6,"{'USA': 57, 'Germany': 25, 'India': 17}",779036,"Accel Partners, Kleiner Perkins"
+Plaid,https://plaid.com,Q3 2024,Inactive,Retail,Australia,189.55,Series B,13/03/2021,2,"{'USA': 82, 'Germany': 23, 'India': 52}",679297,Andreessen Horowitz
+Plaid,https://plaid.com,Q4 2024,Exited,Finance,Australia,119.83,IPO,22/06/2019,6,"{'USA': 15, 'Germany': 9, 'India': 3}",327025,"SoftBank, Andreessen Horowitz"
