@@ -15,9 +15,9 @@ root_path = os.path.join(os.path.dirname(dir_name))
 def load_data(file_path):
     columns = [
         "company_name", "company_website", "quarter", "Headcount_Count",
-        "Headcount_Growth", "Headcount_Breakdown_of_employees",
+        "Headcount_Growth",
         "Fundraising_Total_amount", "Fundraising_Date_of_last_round",
-        "Financials_GMV", "Financials_Net_Sales", "Financials_CAC", "tech_employee", "sales_employee" ,"admin_employee"
+        "Financials_GMV", "Financials_Net_Sales", "Financials_CAC", "tech_employee", "sales_employee" ,"admin_employee", 'year'
     ]
 
     df = pd.read_csv(file_path, usecols=columns)
@@ -41,11 +41,25 @@ def generate_graphs(company_name, data):
     sns.set_style("whitegrid")
     fig = plt.figure(figsize=(20, 15))
 
+    # Assuming df is the input DataFrame
+    df['index'] = df['quarter'].astype(str) + '-' + df['year'].astype(str)
+    df.set_index('index', inplace=True)
+
+    # Converting departments into column variables
+    df.rename(columns={
+        'tech_employee': 'tech',
+        'sales_employee': 'sales',
+        'admin_employee': 'admin'
+    }, inplace=True)
+
+    # Create a 2x2 plot layout
+    fig = plt.figure(figsize=(15, 10))
+
     # 1. Headcount Growth Over Time
     plt.subplot(2, 2, 1)
     plt.plot(df.index, df['Headcount_Growth'], marker='o', linewidth=2)
     plt.title('Headcount Growth Rate Over Time', fontsize=12, pad=15)
-    plt.xlabel('Quarter Index')
+    plt.xlabel('Quarter-Year')
     plt.ylabel('Growth Rate (%)')
     plt.grid(True, alpha=0.3)
 
@@ -57,20 +71,20 @@ def generate_graphs(company_name, data):
                 labels=departments,
                 alpha=0.7)
     plt.title('Department Distribution Over Time', fontsize=12, pad=15)
-    plt.xlabel('Quarter Index')
+    plt.xlabel('Quarter-Year')
     plt.ylabel('Number of Employees')
     plt.legend(loc='upper right')
     plt.grid(True, alpha=0.3)
 
-    # 3. Relationship between Headcount and CAC
+    # 3. Relationship between CAC and GMV
     plt.subplot(2, 2, 3)
-    plt.scatter(df['Headcount_Count'], df['Financials_CAC'], alpha=0.6)
-    plt.title('Relationship: Total Headcount vs CAC', fontsize=12, pad=15)
-    plt.xlabel('Total Headcount')
+    plt.scatter(df['Financials_GMV'], df['Financials_CAC'], alpha=0.6)
+    plt.title('Relationship: GMV vs CAC', fontsize=12, pad=15)
+    plt.xlabel('Gross Merchandise Value (GMV)')
     plt.ylabel('Customer Acquisition Cost (CAC)')
-    z = np.polyfit(df['Headcount_Count'], df['Financials_CAC'], 1)
+    z = np.polyfit(df['Financials_GMV'], df['Financials_CAC'], 1)
     p = np.poly1d(z)
-    plt.plot(df['Headcount_Count'], p(df['Headcount_Count']), "r--", alpha=0.8)
+    plt.plot(df['Financials_GMV'], p(df['Financials_GMV']), "r--", alpha=0.8)
     plt.grid(True, alpha=0.3)
 
     # 4. Department Ratio Over Time
@@ -81,7 +95,7 @@ def generate_graphs(company_name, data):
                 labels=departments,
                 alpha=0.7)
     plt.title('Department Ratio Over Time', fontsize=12, pad=15)
-    plt.xlabel('Quarter Index')
+    plt.xlabel('Quarter-Year')
     plt.ylabel('Ratio')
     plt.legend(loc='upper right')
     plt.grid(True, alpha=0.3)
@@ -125,5 +139,5 @@ def generate_report_for_company(file_path, company_name):
     return pdf_path
 
 
-# if __name__ == '__main__':
-#     t = generate_report_for_company("dataset/portcos_historical_db.csv", "Databricks")
+if __name__ == '__main__':
+    t = generate_report_for_company("dataset/portcos_historical_db.csv", "Revolut")
