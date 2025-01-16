@@ -51,7 +51,7 @@ def historical_process_data(root_path, api_key, pdf_path):
 
     # Create PDF report
     company_name = data['company_name']
-    csv_path = os.path.join(root_path, "dataset/historical.csv")
+    csv_path = os.path.join(root_path, "dataset/portcos_historical_db.csv")
     pdf_path = generate_report_for_company(csv_path, company_name)
 
     return pdf_path

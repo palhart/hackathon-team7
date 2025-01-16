@@ -185,7 +185,7 @@ def create_pdf_report(company_name, graph_dir):
     
     pdf_dir = os.path.join(root_path, "reports")
     os.makedirs(pdf_dir, exist_ok=True)
-    pdf_path = os.path.join(pdf_dir, f"{company_name}_report.pdf")
+    pdf_path = os.path.join(pdf_dir, f"{company_name}_benchmark_report.pdf")
     pdf.output(pdf_path)
     
     return pdf_path

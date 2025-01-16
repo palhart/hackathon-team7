@@ -82,8 +82,8 @@ def check_email_and_respond():
                                 recipient_email=sender,  # Sending back to the original sender
                                 subject=f"Processed PDF for {name}",
                                 body="Here is the processed PDF.",
-                                attachment_path=new_pdf_path,
-                                attachment_bench=benchmark_path
+                                attachment_path_historical=new_pdf_path,
+                                attachment_path_benchmark=benchmark_path
                             )
             
             # Mark as read
@@ -138,6 +138,6 @@ def send_email(recipient_email, subject, body, attachment_path_historical, attac
 
 while True:
     check_email_and_respond()
-    time.sleep(30)  # Check every 30 seconds
+    time.sleep(5)  # Check every 30 seconds
 
 
