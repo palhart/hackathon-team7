@@ -6,6 +6,10 @@
 > This project was built as part of the Data-Driven VC Hackathon organized by [Red River West](https://redriverwest.com) & [Bivwak! by BNP Paribas](https://bivwak.bnpparibas/)
 > -- Include the part above --
 
+## Overview
+
+This project is a comprehensive application designed to process, analyze, and generate reports based on historical data, benchmark datasets, and insights from a Deck PDF file. The application integrates multiple functionalities, including processing email attachments, generating reports, and interacting with cloud-based APIs.
+
 ## Prerequisites
 
 Ensure you have the following installed:
@@ -51,16 +55,59 @@ Replace the placeholders (`<...>`) with your actual values:
 
 ## Application Functionality
 
-The application is designed to:
+### Process Email Attachments:
+- Scans incoming emails from a specified Gmail account.
+- Processes attachments such as Excel, CSV, and PDF files.
 
-1. **Process Email Attachments**:
-   - It scans incoming emails to a specified Gmail account.
-   - Processes attachments such as Excel or CSV files.
-2. **Generate Reports**:
-   - Creates detailed reports and dashboards using the provided data.
-   - Reports include visualizations like graphs and summaries.
-3. **Send Reports**:
-   - Sends the generated reports and dashboards back to the specified recipients.
+### Generate Reports:
+- Produces detailed PDF reports based on the provided data:
+  - **Hierarchical PDF Report**: Summarizes insights from the Deck PDF and historical datasets, focusing on trends and organizational data.
+  - **Benchmark PDF Report**: Compares the subject company with competitive enterprises using benchmark data.
+- Reports include visualizations, graphs, and summaries.
+
+### Send Reports:
+- Sends the generated PDF reports back to specified recipients via email.
+
+---
+
+## File Structure
+```
+.
+├── LICENSE
+├── README.md
+├── apis
+│   ├── harmonic_api.py
+│   ├── people_data_labs_api.py
+│   ├── predict_leads_api.py
+│   └── similarweb_api.py
+├── backend.py
+├── benchmark_pipeline.py
+├── csv_file
+│   └── harmonic_db.csv
+├── dataset
+│   ├── benchmark_db.csv
+│   ├── grub.py
+│   └── portcos_historical_db.csv
+├── generator
+│   ├── gpt.py
+│   └── preprocess.py
+├── historical_pipeline.py
+├── main.py
+├── pdf_report
+│   ├── generate_benchmark_pdf.py
+│   └── generate_historical_pdf.py
+├── requirements.txt
+└── utils
+    └── preprocessing.py
+```
+
+---
+
+## Contributing
+
+1. Fork the repository.
+2. Create a new branch for your feature or bug fix.
+3. Submit a pull request with a detailed description of your changes.
 
 ---
 
@@ -75,4 +122,11 @@ The application is designed to:
    ```bash
    python main.py
    ```
+--- 
+
+## License
+This project is licensed under the terms of the `LICENSE` file.
+
+
+
 
