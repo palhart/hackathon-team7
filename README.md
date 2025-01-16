@@ -33,9 +33,14 @@ GMAIL_PASSWORD=<Your App Password>
 
 Replace the placeholders (`<...>`) with your actual values:
 
-- **OPENAI_API_KEY**: Obtain this from OpenAI by signing up and generating an API key.
-- **GMAIL_USER**: This is the Gmail address you will use to send emails.
-- **GMAIL_PASSWORD**: This is a generated app password. Follow the instructions below to create one.
+- **SIMILARWEB_API_KEY** = ""
+- **HARMONIC_API_KEY** = ""
+- **PEOPLE_DATA_LABS_API_KEY** = ""
+- **PREDICT_LEADS_API_KEY** = ""
+- **PREDICT_LEADS_API_TOKEN** = ""
+- **OPENAI_API_KEY** = ""
+- **GMAIL_USER** = ""
+- **GMAIL_PASSWORD** = ""
 
 ---
 
