@@ -19,7 +19,8 @@ class GPT:
 
     
     def create_prompt_using_images(self, deck_images, fields: list):
-        content = [{"type": "text", "text": f"Extract the following info (set to None if you can't deduce the answer): {', '.join(fields)}"}]
+        content = [{"type": "text", "text": f"Extract the following info (set to None if you can't deduce the answer): {', '.join(fields)}, I give you\
+                    an exemple : Databricks,https://databricks.com,Q1 2020,242,-0.06,{{'tech': 115, 'sales': 20, 'admin': 3}},49.55,23/04/2023,4357136.71,2418103.33,354.87\n\n"}]
         for deck_image in deck_images:
             content.append({
                 "type": "image_url", 
