@@ -16,6 +16,8 @@ def historical_process_data(root_path, api_key, pdf_path):
     image_dir = os.path.join(root_path, "images")
     convert_input(pdf_path, image_dir)
 
+    print(f"PDF converted to images: {image_dir}")
+
     # Extract data from images
     gpt = GPT(api_key=api_key)
     deck_images = get_images_path(image_dir)
@@ -25,12 +27,14 @@ def historical_process_data(root_path, api_key, pdf_path):
         "quarter",
         "Headcount_Count",
         "Headcount_Growth",
-        "Headcount_Breakdown_of_employees",
         "Fundraising_Total_amount",
         "Fundraising_Date_of_last_round",
         "Financials_GMV",
         "Financials_Net_Sales",
-        "Financials_CAC"
+        "Financials_CAC",
+        "tech_employee (convert from % to number)",
+        "sales_employee (convert from % to number)",
+        "admin_employee (convert from % to number)"
         ]
     data = gpt.extract_data(deck_images, fields)
 
@@ -46,7 +50,7 @@ def historical_process_data(root_path, api_key, pdf_path):
 
 
     # Create PDF report
-    company_name = data['Company_name']
+    company_name = data['company_name']
     csv_path = os.path.join(root_path, "dataset/historical.csv")
     pdf_path = generate_report_for_company(csv_path, company_name)
 
