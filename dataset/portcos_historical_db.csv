@@ -1,201 +1,201 @@
 ﻿company_name,company_website,quarter,Headcount_Count,Headcount_Growth,Headcount_Breakdown_of_employees,Fundraising_Total_amount,Fundraising_Date_of_last_round,Financials_GMV,Financials_Net_Sales,Financials_CAC
-Stripe,https://stripe.com,Q1 2020,290,0.31,"{'tech': 96, 'sales': 40, 'admin': 29}",31.85,20/09/2023,1946089.15,2030980.43,491.49
-Stripe,https://stripe.com,Q2 2020,371,0.04,"{'tech': 65, 'sales': 185, 'admin': 54}",21.18,13/08/2023,2871073.64,3000130.33,262.6
-Stripe,https://stripe.com,Q3 2020,205,0.32,"{'tech': 87, 'sales': 65, 'admin': 30}",22.67,19/08/2024,7127578.61,4617762.79,449.58
-Stripe,https://stripe.com,Q4 2020,264,0.27,"{'tech': 25, 'sales': 97, 'admin': 18}",4.89,10/10/2024,410087.04,4690336.26,109.95
-Stripe,https://stripe.com,Q1 2021,14,0.35,"{'tech': 6, 'sales': 6, 'admin': 2}",54.41,15/07/2024,3277947.06,615331.82,245.69
-Stripe,https://stripe.com,Q2 2021,262,0.06,"{'tech': 78, 'sales': 45, 'admin': 5}",51.31,23/07/2021,5705272.2,4926011.77,85.64
-Stripe,https://stripe.com,Q3 2021,222,0.21,"{'tech': 83, 'sales': 36, 'admin': 44}",58.69,04/08/2023,4508946.04,1373154.98,119.28
-Stripe,https://stripe.com,Q4 2021,221,0.4,"{'tech': 11, 'sales': 31, 'admin': 30}",23.92,24/02/2024,9312617.74,3115842.32,366.51
-Stripe,https://stripe.com,Q1 2022,222,0.1,"{'tech': 24, 'sales': 97, 'admin': 16}",95.7,19/08/2021,7425681.33,3232550.08,138.72
-Stripe,https://stripe.com,Q2 2022,69,0.23,"{'tech': 9, 'sales': 20, 'admin': 7}",52.14,04/01/2022,3635029.92,3968407.39,493.72
-Stripe,https://stripe.com,Q3 2022,314,0.14,"{'tech': 113, 'sales': 89, 'admin': 30}",38.74,24/12/2024,3276598.95,458111.23,223.66
-Stripe,https://stripe.com,Q4 2022,322,0.06,"{'tech': 104, 'sales': 104, 'admin': 2}",59.18,17/07/2020,4831082.1,1029240.38,239
-Stripe,https://stripe.com,Q1 2023,64,0.04,"{'tech': 18, 'sales': 5, 'admin': 10}",20.27,04/11/2023,4043170.21,762795.54,285.61
-Stripe,https://stripe.com,Q2 2023,463,0.22,"{'tech': 106, 'sales': 110, 'admin': 59}",27.36,18/01/2021,9135678.42,1284189.94,144.11
-Stripe,https://stripe.com,Q3 2023,113,0.17,"{'tech': 37, 'sales': 46, 'admin': 16}",4.2,05/10/2022,4660129.61,2220717.63,400.42
-Stripe,https://stripe.com,Q4 2023,219,0.22,"{'tech': 37, 'sales': 77, 'admin': 4}",17.64,30/08/2020,8409564.61,2568935.06,311.32
-Stripe,https://stripe.com,Q1 2024,47,0.38,"{'tech': 14, 'sales': 9, 'admin': 8}",68.69,30/12/2023,7610352.55,3881007.47,81.82
-Stripe,https://stripe.com,Q2 2024,94,0.27,"{'tech': 38, 'sales': 44, 'admin': 1}",97.57,31/03/2021,4714150.11,620070.4,115.28
-Stripe,https://stripe.com,Q3 2024,247,0.23,"{'tech': 20, 'sales': 7, 'admin': 4}",7.93,28/11/2020,1284902.42,3455272.81,284.22
-Stripe,https://stripe.com,Q4 2024,79,0.35,"{'tech': 13, 'sales': 14, 'admin': 6}",2.05,14/09/2020,7377190.11,4896383.96,176.1
-SpaceX,https://www.spacex.com,Q1 2020,154,0.09,"{'tech': 25, 'sales': 56, 'admin': 16}",28.22,18/04/2024,1838554.17,2999253.86,114.29
-SpaceX,https://www.spacex.com,Q2 2020,387,0.35,"{'tech': 94, 'sales': 31, 'admin': 52}",66.02,02/02/2020,7925789.45,3243652.16,249.27
-SpaceX,https://www.spacex.com,Q3 2020,209,0.08,"{'tech': 68, 'sales': 28, 'admin': 37}",50.6,30/03/2023,9468860.78,361985.83,408.36
-SpaceX,https://www.spacex.com,Q4 2020,285,0.04,"{'tech': 59, 'sales': 55, 'admin': 35}",22.85,17/05/2021,5059912.41,2627582.48,411.4
-SpaceX,https://www.spacex.com,Q1 2021,345,0.24,"{'tech': 53, 'sales': 125, 'admin': 35}",14.76,20/05/2024,6261508.27,1171798.64,244.5
-SpaceX,https://www.spacex.com,Q2 2021,322,0.19,"{'tech': 59, 'sales': 142, 'admin': 52}",26.12,23/10/2021,7103654.35,271287.78,101.01
-SpaceX,https://www.spacex.com,Q3 2021,326,0.18,"{'tech': 59, 'sales': 72, 'admin': 33}",42.89,03/08/2022,3514817.26,584679.66,125.54
-SpaceX,https://www.spacex.com,Q4 2021,402,0.29,"{'tech': 96, 'sales': 160, 'admin': 19}",71.2,08/12/2024,7244681.27,3548519.34,413.45
-SpaceX,https://www.spacex.com,Q1 2022,143,0.19,"{'tech': 54, 'sales': 41, 'admin': 4}",76.65,19/09/2024,6167785.22,2039184.65,73.52
-SpaceX,https://www.spacex.com,Q2 2022,482,0.22,"{'tech': 179, 'sales': 6, 'admin': 46}",77.78,08/06/2023,7248507.66,874429.89,486.06
-SpaceX,https://www.spacex.com,Q3 2022,418,0.35,"{'tech': 189, 'sales': 175, 'admin': 7}",58.18,10/04/2021,5988166.75,2157447.18,481.15
-SpaceX,https://www.spacex.com,Q4 2022,161,0.2,"{'tech': 52, 'sales': 74, 'admin': 13}",82.03,06/01/2024,1900890.06,2374055.51,51.01
-SpaceX,https://www.spacex.com,Q1 2023,129,0.05,"{'tech': 44, 'sales': 11, 'admin': 5}",51.55,27/04/2022,9354945.57,233369.18,167.92
-SpaceX,https://www.spacex.com,Q2 2023,310,0.01,"{'tech': 48, 'sales': 152, 'admin': 19}",59.35,28/05/2023,7665383.53,4179684.83,462.15
-SpaceX,https://www.spacex.com,Q3 2023,461,0.33,"{'tech': 141, 'sales': 223, 'admin': 25}",71.55,27/08/2022,4724269.2,1998774.04,394.21
-SpaceX,https://www.spacex.com,Q4 2023,115,0.07,"{'tech': 16, 'sales': 8, 'admin': 6}",14.3,15/04/2020,1247556.01,4098187.51,190.01
-SpaceX,https://www.spacex.com,Q1 2024,304,0.33,"{'tech': 71, 'sales': 122, 'admin': 22}",30.4,03/04/2020,4368754.16,4172509.86,181.7
-SpaceX,https://www.spacex.com,Q2 2024,220,0.36,"{'tech': 95, 'sales': 109, 'admin': 22}",92.6,16/12/2024,1353816.85,4040500.08,174.13
-SpaceX,https://www.spacex.com,Q3 2024,197,0.34,"{'tech': 27, 'sales': 5, 'admin': 6}",67.83,24/03/2020,6494081.27,993914.32,422.71
-SpaceX,https://www.spacex.com,Q4 2024,231,0.25,"{'tech': 98, 'sales': 89, 'admin': 40}",29.81,26/03/2022,9905879.12,4707175.71,176.03
-Instacart,https://www.instacart.com,Q1 2020,366,0.36,"{'tech': 129, 'sales': 83, 'admin': 9}",74.87,06/02/2021,3941495.93,48097.48,278.32
-Instacart,https://www.instacart.com,Q2 2020,498,0.13,"{'tech': 66, 'sales': 109, 'admin': 5}",18.06,26/03/2022,9788960.32,2711258.61,265.22
-Instacart,https://www.instacart.com,Q3 2020,303,0.16,"{'tech': 51, 'sales': 126, 'admin': 25}",52.17,19/05/2023,6670372.81,2997022.04,445.66
-Instacart,https://www.instacart.com,Q4 2020,471,0.3,"{'tech': 78, 'sales': 141, 'admin': 42}",64.29,10/09/2023,6541753.61,67225.12,322.44
-Instacart,https://www.instacart.com,Q1 2021,163,0.1,"{'tech': 76, 'sales': 49, 'admin': 22}",71.83,08/07/2023,5565331.14,3814719.88,225.39
-Instacart,https://www.instacart.com,Q2 2021,35,0.3,"{'tech': 15, 'sales': 10, 'admin': 4}",6.7,10/10/2024,8586316.12,66285.43,297.33
-Instacart,https://www.instacart.com,Q3 2021,435,0.33,"{'tech': 30, 'sales': 106, 'admin': 46}",68.9,18/05/2022,866944.34,1578921.49,178.34
-Instacart,https://www.instacart.com,Q4 2021,324,0.08,"{'tech': 126, 'sales': 74, 'admin': 44}",54.37,14/05/2024,5034848.4,3845632.97,354.4
-Instacart,https://www.instacart.com,Q1 2022,160,0.12,"{'tech': 60, 'sales': 68, 'admin': 21}",67.91,06/03/2020,2201621.61,2520018.03,445.85
-Instacart,https://www.instacart.com,Q2 2022,227,0.09,"{'tech': 83, 'sales': 62, 'admin': 43}",66.78,30/05/2024,8160739.67,2030297.33,223.46
-Instacart,https://www.instacart.com,Q3 2022,158,0.38,"{'tech': 79, 'sales': 40, 'admin': 12}",76.63,19/01/2022,5326141.78,2169343.68,108.61
-Instacart,https://www.instacart.com,Q4 2022,276,0.23,"{'tech': 57, 'sales': 65, 'admin': 1}",31.05,27/09/2020,3152040.3,4159592.92,72.03
-Instacart,https://www.instacart.com,Q1 2023,47,0.21,"{'tech': 23, 'sales': 11, 'admin': 9}",23.2,03/11/2023,8458545.49,3134478.7,138.78
-Instacart,https://www.instacart.com,Q2 2023,292,0.18,"{'tech': 20, 'sales': 34, 'admin': 22}",57.26,03/09/2024,6234358.4,2930744.34,199.22
-Instacart,https://www.instacart.com,Q3 2023,451,0.32,"{'tech': 24, 'sales': 131, 'admin': 60}",44.2,31/07/2021,4384657.14,1175406.23,402.7
-Instacart,https://www.instacart.com,Q4 2023,494,0.23,"{'tech': 87, 'sales': 60, 'admin': 75}",40.39,28/04/2024,9687844.51,2083927.95,250.85
-Instacart,https://www.instacart.com,Q1 2024,197,0.02,"{'tech': 79, 'sales': 87, 'admin': 13}",36.78,05/10/2023,5934643.66,4207103.86,373.34
-Instacart,https://www.instacart.com,Q2 2024,173,0.39,"{'tech': 39, 'sales': 80, 'admin': 10}",11.08,17/02/2023,9023694.5,4653624.07,294.87
-Instacart,https://www.instacart.com,Q3 2024,407,0.18,"{'tech': 189, 'sales': 200, 'admin': 5}",47.74,03/10/2024,4131699.91,1344406.52,223.85
-Instacart,https://www.instacart.com,Q4 2024,228,0.24,"{'tech': 54, 'sales': 83, 'admin': 8}",38.34,07/11/2022,4066895.58,1840001.3,83.09
-Epic Games,https://www.epicgames.com,Q1 2020,61,0.31,"{'tech': 14, 'sales': 16, 'admin': 12}",22.04,30/03/2021,374880,834315.25,357.04
-Epic Games,https://www.epicgames.com,Q2 2020,359,0.1,"{'tech': 140, 'sales': 34, 'admin': 3}",78.93,02/08/2024,6458593.73,1123180.41,258.02
-Epic Games,https://www.epicgames.com,Q3 2020,473,0.25,"{'tech': 160, 'sales': 23, 'admin': 58}",22.14,16/11/2023,2640286.72,1186004.87,250.22
-Epic Games,https://www.epicgames.com,Q4 2020,295,0.26,"{'tech': 76, 'sales': 125, 'admin': 12}",6.84,15/08/2021,1723790.56,3738365.77,66.49
-Epic Games,https://www.epicgames.com,Q1 2021,206,0.19,"{'tech': 12, 'sales': 54, 'admin': 18}",1.42,04/05/2024,7529959.82,26556.41,365.36
-Epic Games,https://www.epicgames.com,Q2 2021,273,0.28,"{'tech': 105, 'sales': 88, 'admin': 25}",13.17,15/11/2023,7935641.9,3147067.93,176.42
-Epic Games,https://www.epicgames.com,Q3 2021,291,0.34,"{'tech': 11, 'sales': 74, 'admin': 23}",67.31,12/10/2020,8758400.41,1125178.41,357.78
-Epic Games,https://www.epicgames.com,Q4 2021,59,0.35,"{'tech': 26, 'sales': 17, 'admin': 1}",7.43,18/02/2021,6403435.89,4096996.83,393.74
-Epic Games,https://www.epicgames.com,Q1 2022,308,0.32,"{'tech': 139, 'sales': 50, 'admin': 40}",33.43,19/12/2022,1655542.21,4870608.95,274.16
-Epic Games,https://www.epicgames.com,Q2 2022,142,0.12,"{'tech': 56, 'sales': 7, 'admin': 24}",66.7,21/09/2023,2330495.51,1291375.6,203.53
-Epic Games,https://www.epicgames.com,Q3 2022,310,0.34,"{'tech': 66, 'sales': 22, 'admin': 5}",72.77,05/03/2020,8771052.67,2718052.28,348.5
-Epic Games,https://www.epicgames.com,Q4 2022,321,0.14,"{'tech': 128, 'sales': 146, 'admin': 2}",94.82,12/06/2021,7379426.63,2856632.96,430.56
-Epic Games,https://www.epicgames.com,Q1 2023,371,0.02,"{'tech': 143, 'sales': 16, 'admin': 32}",86.01,23/01/2024,3052618.01,4420834.81,159.35
-Epic Games,https://www.epicgames.com,Q2 2023,326,0.08,"{'tech': 125, 'sales': 44, 'admin': 29}",61.23,10/09/2024,4123300.63,2972227.54,410.33
-Epic Games,https://www.epicgames.com,Q3 2023,465,0.33,"{'tech': 202, 'sales': 40, 'admin': 88}",76.16,03/05/2023,1395256.26,4871818.29,487.3
-Epic Games,https://www.epicgames.com,Q4 2023,131,0.04,"{'tech': 47, 'sales': 37, 'admin': 18}",46.34,31/03/2023,3117100.2,1078382.82,171.04
-Epic Games,https://www.epicgames.com,Q1 2024,370,0.2,"{'tech': 38, 'sales': 70, 'admin': 41}",9.26,09/02/2024,6957323.05,3632047.58,365.2
-Epic Games,https://www.epicgames.com,Q2 2024,101,0.36,"{'tech': 10, 'sales': 16, 'admin': 9}",46.77,24/07/2022,6035830.92,4957828.56,51.04
-Epic Games,https://www.epicgames.com,Q3 2024,410,0.33,"{'tech': 13, 'sales': 147, 'admin': 78}",67.25,03/02/2020,1850940.23,3140671.71,281.37
-Epic Games,https://www.epicgames.com,Q4 2024,333,0.3,"{'tech': 32, 'sales': 164, 'admin': 20}",98.31,16/03/2021,6286781.99,1598361.88,341.74
-Databricks,https://databricks.com,Q1 2020,328,0.37,"{'tech': 157, 'sales': 88, 'admin': 57}",17.01,07/05/2020,6138155.98,3278665.32,62.51
-Databricks,https://databricks.com,Q2 2020,56,0.31,"{'tech': 25, 'sales': 15, 'admin': 5}",96.99,02/02/2020,9593880.79,4295721.8,69.69
-Databricks,https://databricks.com,Q3 2020,221,0.21,"{'tech': 22, 'sales': 45, 'admin': 25}",6.79,20/07/2020,3602880.2,2808876.96,251.74
-Databricks,https://databricks.com,Q4 2020,428,0.26,"{'tech': 163, 'sales': 123, 'admin': 70}",55.91,24/12/2022,7203900.52,4322452.74,378.24
-Databricks,https://databricks.com,Q1 2021,281,0.3,"{'tech': 107, 'sales': 129, 'admin': 17}",92.21,19/12/2023,9308835.88,703594.94,365.64
-Databricks,https://databricks.com,Q2 2021,202,0.36,"{'tech': 81, 'sales': 63, 'admin': 27}",46.74,10/04/2020,7933295.41,3900168.68,449.42
-Databricks,https://databricks.com,Q3 2021,145,0.05,"{'tech': 71, 'sales': 11, 'admin': 20}",83.09,17/05/2022,2858004.78,2540504.33,257.03
-Databricks,https://databricks.com,Q4 2021,424,0.21,"{'tech': 161, 'sales': 55, 'admin': 10}",33.61,08/10/2023,155077.25,4003027.89,222.34
-Databricks,https://databricks.com,Q1 2022,372,0.1,"{'tech': 83, 'sales': 59, 'admin': 21}",61.07,15/07/2022,5332980.76,4886271.8,415.4
-Databricks,https://databricks.com,Q2 2022,49,0.11,"{'tech': 20, 'sales': 14, 'admin': 4}",47.26,29/05/2021,6683512.7,3279234.41,415.85
-Databricks,https://databricks.com,Q3 2022,185,0.05,"{'tech': 51, 'sales': 80, 'admin': 21}",33.33,28/03/2020,6701758.98,859141.6,397.47
-Databricks,https://databricks.com,Q4 2022,366,0.23,"{'tech': 137, 'sales': 123, 'admin': 53}",49.14,21/04/2023,7761975.24,581943.54,309.18
-Databricks,https://databricks.com,Q1 2023,397,0.03,"{'tech': 149, 'sales': 113, 'admin': 54}",44.5,15/11/2022,6444512.34,784633.12,282.71
-Databricks,https://databricks.com,Q2 2023,350,0.16,"{'tech': 119, 'sales': 46, 'admin': 45}",40.25,11/07/2024,9721100.16,833042.93,123.19
-Databricks,https://databricks.com,Q3 2023,105,0.27,"{'tech': 25, 'sales': 7, 'admin': 5}",70.84,22/05/2022,7518869,710918.58,189.3
-Databricks,https://databricks.com,Q4 2023,94,0.35,"{'tech': 34, 'sales': 34, 'admin': 12}",44.51,27/08/2020,7930716.24,30417.52,364.17
-Databricks,https://databricks.com,Q1 2024,370,0.25,"{'tech': 46, 'sales': 143, 'admin': 8}",33.11,25/07/2022,7057409.33,2876107.16,116.95
-Databricks,https://databricks.com,Q2 2024,145,0.09,"{'tech': 14, 'sales': 19, 'admin': 15}",67.3,11/11/2023,4321681.54,3828397.06,82.55
-Databricks,https://databricks.com,Q3 2024,163,0.18,"{'tech': 33, 'sales': 57, 'admin': 11}",32.23,13/10/2024,3997851.54,1656041.27,321.05
-Databricks,https://databricks.com,Q4 2024,139,0.28,"{'tech': 68, 'sales': 22, 'admin': 15}",82.65,18/11/2020,2497378.03,4787989.11,110.51
-Klarna,https://www.klarna.com,Q1 2020,366,0.23,"{'tech': 93, 'sales': 159, 'admin': 38}",89.23,24/10/2023,3419433.34,2421333.04,180.59
-Klarna,https://www.klarna.com,Q2 2020,93,0.21,"{'tech': 39, 'sales': 20, 'admin': 13}",2.55,19/11/2023,3529513.52,515040.45,418.51
-Klarna,https://www.klarna.com,Q3 2020,292,0.21,"{'tech': 142, 'sales': 95, 'admin': 49}",34.17,11/01/2021,9789506.93,2795387.82,211.44
-Klarna,https://www.klarna.com,Q4 2020,362,0.34,"{'tech': 42, 'sales': 176, 'admin': 37}",25.81,23/12/2022,2717216.39,2678908.29,338.32
-Klarna,https://www.klarna.com,Q1 2021,279,0.38,"{'tech': 18, 'sales': 83, 'admin': 39}",56.36,19/03/2021,8978767.32,1666862.78,454.25
-Klarna,https://www.klarna.com,Q2 2021,280,0.24,"{'tech': 88, 'sales': 51, 'admin': 55}",36.58,01/06/2021,2955870.65,3333784.66,88.64
-Klarna,https://www.klarna.com,Q3 2021,293,0.06,"{'tech': 35, 'sales': 105, 'admin': 2}",51.59,07/11/2021,2703823.09,1170333.23,338.47
-Klarna,https://www.klarna.com,Q4 2021,21,0.09,"{'tech': 6, 'sales': 8, 'admin': 4}",50.76,11/05/2022,1325842.95,4636038.45,377.15
-Klarna,https://www.klarna.com,Q1 2022,228,0.14,"{'tech': 6, 'sales': 66, 'admin': 9}",39.83,11/11/2021,6122892.91,3221195.71,116.65
-Klarna,https://www.klarna.com,Q2 2022,359,0.27,"{'tech': 9, 'sales': 84, 'admin': 58}",54.22,28/07/2024,5486478.44,3310838.65,207.7
-Klarna,https://www.klarna.com,Q3 2022,422,0.36,"{'tech': 154, 'sales': 58, 'admin': 72}",98.18,06/06/2020,1810552.9,986894.77,305.48
-Klarna,https://www.klarna.com,Q4 2022,343,0.2,"{'tech': 163, 'sales': 120, 'admin': 32}",54.89,22/08/2022,290871.21,1880346.27,185.74
-Klarna,https://www.klarna.com,Q1 2023,50,0.16,"{'tech': 13, 'sales': 13, 'admin': 8}",66.82,21/05/2023,1812714.7,2646392.28,399.62
-Klarna,https://www.klarna.com,Q2 2023,163,0.1,"{'tech': 80, 'sales': 43, 'admin': 6}",14.91,26/02/2023,2516154.25,465160.66,484.51
-Klarna,https://www.klarna.com,Q3 2023,65,0.19,"{'tech': 21, 'sales': 10, 'admin': 2}",45.82,24/10/2020,2292702.06,2088416.02,194.17
-Klarna,https://www.klarna.com,Q4 2023,178,0.08,"{'tech': 59, 'sales': 78, 'admin': 9}",31.79,07/03/2024,8499898.24,805415.74,386.21
-Klarna,https://www.klarna.com,Q1 2024,381,0.08,"{'tech': 7, 'sales': 153, 'admin': 60}",71.83,28/05/2024,9612191.45,2701349.18,227.12
-Klarna,https://www.klarna.com,Q2 2024,222,0.16,"{'tech': 72, 'sales': 26, 'admin': 42}",12.26,03/05/2022,4298537.36,3088037.34,337.64
-Klarna,https://www.klarna.com,Q3 2024,440,0.36,"{'tech': 106, 'sales': 75, 'admin': 79}",24.85,07/09/2021,3414452.33,1602389.68,430.66
-Klarna,https://www.klarna.com,Q4 2024,324,0.34,"{'tech': 22, 'sales': 103, 'admin': 18}",5.05,11/06/2024,7158600.21,2829470.37,242.46
-Chime,https://www.chime.com,Q1 2020,237,0.1,"{'tech': 100, 'sales': 50, 'admin': 29}",10.25,20/10/2023,655097.68,3834129.29,70.03
-Chime,https://www.chime.com,Q2 2020,51,0.14,"{'tech': 23, 'sales': 21, 'admin': 9}",90.16,21/04/2022,301161.29,2048438.67,328.92
-Chime,https://www.chime.com,Q3 2020,492,0.03,"{'tech': 154, 'sales': 82, 'admin': 31}",72.5,01/06/2022,8761294.53,4876922.2,453.03
-Chime,https://www.chime.com,Q4 2020,481,0.08,"{'tech': 64, 'sales': 229, 'admin': 44}",24.68,21/10/2021,6157571.98,3294677.83,411.99
-Chime,https://www.chime.com,Q1 2021,128,0.33,"{'tech': 47, 'sales': 9, 'admin': 22}",57.17,28/08/2023,9431637.84,3775934.38,75.76
-Chime,https://www.chime.com,Q2 2021,295,0.06,"{'tech': 31, 'sales': 29, 'admin': 19}",98.1,08/07/2023,216307.91,4163775.88,65.15
-Chime,https://www.chime.com,Q3 2021,443,0.34,"{'tech': 44, 'sales': 104, 'admin': 22}",45.36,05/05/2022,5478397.15,1356182.21,216.88
-Chime,https://www.chime.com,Q4 2021,427,0.24,"{'tech': 45, 'sales': 138, 'admin': 3}",19.34,15/11/2021,4218365.72,3620904.82,78.48
-Chime,https://www.chime.com,Q1 2022,438,0.07,"{'tech': 173, 'sales': 218, 'admin': 42}",92.36,01/07/2021,5289598.75,3663029.67,234.14
-Chime,https://www.chime.com,Q2 2022,77,0.03,"{'tech': 9, 'sales': 36, 'admin': 14}",79.65,27/09/2021,2367942.07,1029724.65,493.31
-Chime,https://www.chime.com,Q3 2022,20,0.29,"{'tech': 6, 'sales': 8, 'admin': 2}",10.7,10/06/2023,8259100.54,1748010.56,168.43
-Chime,https://www.chime.com,Q4 2022,132,0.23,"{'tech': 34, 'sales': 58, 'admin': 4}",14.9,08/06/2021,9698879.37,889890.11,131.99
-Chime,https://www.chime.com,Q1 2023,394,0.36,"{'tech': 33, 'sales': 105, 'admin': 29}",28.76,21/07/2022,4086875.67,3595477.01,346.04
-Chime,https://www.chime.com,Q2 2023,353,0.11,"{'tech': 122, 'sales': 96, 'admin': 12}",9.67,12/02/2021,8110137.04,2326115.43,405.26
-Chime,https://www.chime.com,Q3 2023,181,0.19,"{'tech': 48, 'sales': 23, 'admin': 8}",59.95,09/10/2020,5804759.81,4408412.98,56.88
-Chime,https://www.chime.com,Q4 2023,254,0.32,"{'tech': 121, 'sales': 101, 'admin': 37}",25.46,16/01/2022,5871861.72,2768368.41,283.09
-Chime,https://www.chime.com,Q1 2024,403,0.07,"{'tech': 118, 'sales': 34, 'admin': 55}",50.88,19/05/2024,1312377.05,1991003.8,291.99
-Chime,https://www.chime.com,Q2 2024,183,0.09,"{'tech': 10, 'sales': 22, 'admin': 19}",75.18,17/04/2021,2727770.81,1530948.38,146.11
-Chime,https://www.chime.com,Q3 2024,432,0.37,"{'tech': 161, 'sales': 53, 'admin': 7}",11.56,30/03/2022,6245437.9,2902048.27,373.74
-Chime,https://www.chime.com,Q4 2024,30,0.34,"{'tech': 8, 'sales': 12, 'admin': 1}",31.79,28/10/2024,6047236.85,3977962.95,353.34
-Discord,https://discord.com,Q1 2020,122,0.25,"{'tech': 49, 'sales': 37, 'admin': 7}",15.22,21/03/2022,2804866.32,1026641.37,397.09
-Discord,https://discord.com,Q2 2020,161,0.25,"{'tech': 34, 'sales': 80, 'admin': 9}",38.37,29/09/2022,4598210.28,2070840.8,195.44
-Discord,https://discord.com,Q3 2020,358,0.34,"{'tech': 174, 'sales': 90, 'admin': 70}",44.59,21/10/2024,7578600.91,3013710.79,150.15
-Discord,https://discord.com,Q4 2020,52,0.38,"{'tech': 8, 'sales': 26, 'admin': 8}",64.93,27/05/2022,9855733.69,2533444.39,152
-Discord,https://discord.com,Q1 2021,456,0.13,"{'tech': 6, 'sales': 68, 'admin': 34}",89.21,18/04/2023,7578236.91,3415687.4,235.03
-Discord,https://discord.com,Q2 2021,131,0.27,"{'tech': 32, 'sales': 17, 'admin': 26}",14.99,07/10/2022,7252635.69,4326669.67,61.05
-Discord,https://discord.com,Q3 2021,94,0.02,"{'tech': 45, 'sales': 30, 'admin': 6}",58.06,19/12/2020,3633808.59,3860876.21,385.78
-Discord,https://discord.com,Q4 2021,121,0.14,"{'tech': 11, 'sales': 39, 'admin': 10}",48.16,13/02/2023,110591.59,1675942,445.53
-Discord,https://discord.com,Q1 2022,489,0.24,"{'tech': 123, 'sales': 240, 'admin': 11}",35.11,29/07/2020,5988179.49,216769.86,60.94
-Discord,https://discord.com,Q2 2022,285,0.27,"{'tech': 24, 'sales': 60, 'admin': 18}",77.95,28/01/2023,7293875.99,1777216.19,162.92
-Discord,https://discord.com,Q3 2022,20,0.33,"{'tech': 7, 'sales': 9, 'admin': 1}",46.3,15/09/2022,4543938.54,1496164.23,255.81
-Discord,https://discord.com,Q4 2022,439,0.17,"{'tech': 202, 'sales': 128, 'admin': 57}",66.09,25/01/2020,9718128.91,3933462.21,467.19
-Discord,https://discord.com,Q1 2023,413,0.01,"{'tech': 50, 'sales': 87, 'admin': 4}",97.08,15/03/2020,413863.17,4292559.48,97.43
-Discord,https://discord.com,Q2 2023,362,0.2,"{'tech': 24, 'sales': 77, 'admin': 39}",36.35,13/03/2021,2803499.61,2780178.52,497.42
-Discord,https://discord.com,Q3 2023,172,0.08,"{'tech': 75, 'sales': 40, 'admin': 9}",74.48,24/07/2022,6353456.49,1682961.41,184.47
-Discord,https://discord.com,Q4 2023,52,0.13,"{'tech': 10, 'sales': 15, 'admin': 1}",22.21,12/02/2023,1342361.92,2494664.3,409.31
-Discord,https://discord.com,Q1 2024,366,0.16,"{'tech': 61, 'sales': 138, 'admin': 62}",42.79,29/03/2020,6299015.19,2105734.19,276.78
-Discord,https://discord.com,Q2 2024,328,0.4,"{'tech': 100, 'sales': 25, 'admin': 17}",14.99,02/10/2023,9574056.29,3510333.97,104.35
-Discord,https://discord.com,Q3 2024,42,0.12,"{'tech': 16, 'sales': 19, 'admin': 3}",72.48,07/01/2022,7030759.19,2363002.29,258.12
-Discord,https://discord.com,Q4 2024,419,0.2,"{'tech': 120, 'sales': 47, 'admin': 25}",15.79,18/11/2022,9630118.25,2505818.54,397.59
-Robinhood,https://robinhood.com,Q1 2020,488,0.28,"{'tech': 201, 'sales': 48, 'admin': 95}",60.78,04/04/2024,6514674.71,464035.22,437.35
-Robinhood,https://robinhood.com,Q2 2020,54,0.25,"{'tech': 15, 'sales': 16, 'admin': 3}",8.75,25/12/2021,8208731.83,4958817.28,408.05
-Robinhood,https://robinhood.com,Q3 2020,27,0.03,"{'tech': 13, 'sales': 9, 'admin': 5}",2.86,20/12/2020,8352642.01,3202692.17,96.46
-Robinhood,https://robinhood.com,Q4 2020,410,0.09,"{'tech': 77, 'sales': 68, 'admin': 31}",20.08,08/11/2024,7629902.03,1289577.16,311.92
-Robinhood,https://robinhood.com,Q1 2021,450,0.29,"{'tech': 47, 'sales': 7, 'admin': 68}",53.17,10/10/2024,814774.43,459706.49,396.31
-Robinhood,https://robinhood.com,Q2 2021,284,0.33,"{'tech': 113, 'sales': 5, 'admin': 44}",28.96,12/03/2022,6048876.1,758055.69,416.46
-Robinhood,https://robinhood.com,Q3 2021,476,0.08,"{'tech': 132, 'sales': 207, 'admin': 73}",53.08,25/07/2023,1340594.36,3942395.22,97.87
-Robinhood,https://robinhood.com,Q4 2021,188,0.2,"{'tech': 60, 'sales': 6, 'admin': 24}",84.67,21/09/2022,6721426.22,102357.97,263.58
-Robinhood,https://robinhood.com,Q1 2022,103,0.1,"{'tech': 18, 'sales': 18, 'admin': 10}",20.69,12/11/2023,106972.18,1314119.42,465.72
-Robinhood,https://robinhood.com,Q2 2022,477,0.38,"{'tech': 35, 'sales': 72, 'admin': 23}",39.23,26/06/2021,2520049.68,909833.77,297.41
-Robinhood,https://robinhood.com,Q3 2022,151,0.32,"{'tech': 12, 'sales': 9, 'admin': 20}",72.82,19/02/2023,2626510.41,1643242.02,136.49
-Robinhood,https://robinhood.com,Q4 2022,60,0.15,"{'tech': 17, 'sales': 26, 'admin': 8}",27.54,07/01/2020,960018.88,3483109.09,249.84
-Robinhood,https://robinhood.com,Q1 2023,54,0.05,"{'tech': 8, 'sales': 22, 'admin': 7}",33.76,03/08/2023,7908565.68,4478919.04,91.37
-Robinhood,https://robinhood.com,Q2 2023,464,0.27,"{'tech': 204, 'sales': 206, 'admin': 55}",96.81,10/10/2021,6223116.93,4313552.2,185.63
-Robinhood,https://robinhood.com,Q3 2023,261,0.09,"{'tech': 115, 'sales': 11, 'admin': 25}",88.71,07/07/2024,2915377.2,1147087.47,213.15
-Robinhood,https://robinhood.com,Q4 2023,162,0.26,"{'tech': 18, 'sales': 17, 'admin': 3}",42.97,21/08/2024,2154488.02,1399034.2,267.84
-Robinhood,https://robinhood.com,Q1 2024,81,0.36,"{'tech': 19, 'sales': 32, 'admin': 2}",93.32,21/04/2022,6940176.72,4029728.78,116.64
-Robinhood,https://robinhood.com,Q2 2024,44,0.35,"{'tech': 17, 'sales': 14, 'admin': 2}",59.68,26/04/2021,5533523.96,4819134.09,439.63
-Robinhood,https://robinhood.com,Q3 2024,269,0.24,"{'tech': 23, 'sales': 73, 'admin': 44}",8.24,29/01/2024,7738735.31,1518788.95,238.57
-Robinhood,https://robinhood.com,Q4 2024,428,0.3,"{'tech': 206, 'sales': 21, 'admin': 54}",70.16,06/08/2023,6016248.67,1025186.88,404.23
-Plaid,https://plaid.com,Q1 2020,324,0.28,"{'tech': 162, 'sales': 158, 'admin': 29}",42.32,01/07/2021,2763394.48,2189123.17,282.07
-Plaid,https://plaid.com,Q2 2020,226,0.09,"{'tech': 73, 'sales': 71, 'admin': 41}",5.88,15/08/2021,2291367,4219573.91,429.18
-Plaid,https://plaid.com,Q3 2020,84,0.32,"{'tech': 31, 'sales': 8, 'admin': 15}",19.73,31/07/2022,7318043.48,2334162.58,275.04
-Plaid,https://plaid.com,Q4 2020,63,0.13,"{'tech': 15, 'sales': 14, 'admin': 1}",83.91,03/03/2023,827764.25,3105051.01,144.35
-Plaid,https://plaid.com,Q1 2021,226,0.25,"{'tech': 25, 'sales': 78, 'admin': 42}",5.92,03/10/2022,3248543.66,3640322.9,351.34
-Plaid,https://plaid.com,Q2 2021,386,0.37,"{'tech': 74, 'sales': 169, 'admin': 23}",45.86,22/05/2024,9818410.38,1770246.67,438.49
-Plaid,https://plaid.com,Q3 2021,50,0.25,"{'tech': 22, 'sales': 22, 'admin': 1}",62.09,25/01/2023,2680868.06,4340415.81,84.11
-Plaid,https://plaid.com,Q4 2021,258,0.19,"{'tech': 114, 'sales': 57, 'admin': 7}",84.65,18/02/2020,3604801.31,2772790.05,286.03
-Plaid,https://plaid.com,Q1 2022,426,0.25,"{'tech': 103, 'sales': 208, 'admin': 73}",66.76,22/09/2020,3885753.71,1115807.41,462.06
-Plaid,https://plaid.com,Q2 2022,269,0.26,"{'tech': 42, 'sales': 122, 'admin': 19}",31.62,14/01/2023,5843999.6,2294382.23,113.65
-Plaid,https://plaid.com,Q3 2022,275,0.36,"{'tech': 60, 'sales': 116, 'admin': 33}",2.11,01/07/2022,3232304.41,4437733.97,216.92
-Plaid,https://plaid.com,Q4 2022,82,0.22,"{'tech': 31, 'sales': 33, 'admin': 13}",85.87,28/06/2022,920961.58,363285.23,102.22
-Plaid,https://plaid.com,Q1 2023,25,0.08,"{'tech': 7, 'sales': 9, 'admin': 5}",26.05,26/04/2022,7425923.25,105997.38,378.95
-Plaid,https://plaid.com,Q2 2023,17,0.19,"{'tech': 8, 'sales': 8, 'admin': 2}",75.67,17/10/2021,3480416.42,3273301.51,423.26
-Plaid,https://plaid.com,Q3 2023,298,0.02,"{'tech': 121, 'sales': 124, 'admin': 22}",55.69,07/09/2024,4679890.8,2845617.94,220.93
-Plaid,https://plaid.com,Q4 2023,392,0.23,"{'tech': 86, 'sales': 122, 'admin': 76}",41.22,17/12/2024,9246267.03,3338409.92,117.25
-Plaid,https://plaid.com,Q1 2024,435,0.36,"{'tech': 31, 'sales': 59, 'admin': 83}",36.49,25/09/2022,3323966.89,2166037.39,81.49
-Plaid,https://plaid.com,Q2 2024,131,0.12,"{'tech': 44, 'sales': 29, 'admin': 14}",57.21,25/06/2023,4376185.33,2749843.26,177.49
-Plaid,https://plaid.com,Q3 2024,313,0.25,"{'tech': 124, 'sales': 119, 'admin': 26}",22.3,17/02/2023,4696324.43,459398.02,168.02
-Plaid,https://plaid.com,Q4 2024,386,0.11,"{'tech': 166, 'sales': 151, 'admin': 52}",7.53,07/05/2023,8990537.42,4138970.03,325.89
+Chime,https://www.chime.com,Q1 2020,151,0,"{'tech': 94, 'sales': 19, 'admin': 38}",5.58,22/06/2023,5117377.89,2443488.51,460.75
+Chime,https://www.chime.com,Q2 2020,338,123.84,"{'tech': 133, 'sales': 156, 'admin': 49}",89.04,20/10/2020,1050809.71,2641627.04,169.4
+Chime,https://www.chime.com,Q3 2020,178,-47.34,"{'tech': 75, 'sales': 78, 'admin': 25}",79.67,30/03/2024,7728563.82,3305811.24,302.28
+Chime,https://www.chime.com,Q4 2020,397,123.03,"{'tech': 150, 'sales': 205, 'admin': 42}",17.29,14/07/2024,6273373.87,421408.46,415.44
+Chime,https://www.chime.com,Q1 2021,174,-56.17,"{'tech': 19, 'sales': 107, 'admin': 48}",59.74,27/08/2022,2274441.58,2377855.19,73.65
+Chime,https://www.chime.com,Q2 2021,20,-88.51,"{'tech': 6, 'sales': 12, 'admin': 2}",30.69,25/09/2021,5369011.87,3703997.18,445.85
+Chime,https://www.chime.com,Q3 2021,24,20,"{'tech': 14, 'sales': 7, 'admin': 3}",37.1,28/05/2020,8921793.54,4699382.22,141.07
+Chime,https://www.chime.com,Q4 2021,237,887.5,"{'tech': 80, 'sales': 153, 'admin': 4}",92.95,07/10/2023,8890559.1,248068.13,457.09
+Chime,https://www.chime.com,Q1 2022,176,-25.74,"{'tech': 73, 'sales': 49, 'admin': 54}",9.86,05/04/2022,5152187.54,3911413.78,108.75
+Chime,https://www.chime.com,Q2 2022,177,0.57,"{'tech': 37, 'sales': 122, 'admin': 18}",18.62,29/10/2021,1862511.79,3051634.38,97.61
+Chime,https://www.chime.com,Q3 2022,12,-93.22,"{'tech': 5, 'sales': 5, 'admin': 2}",54.83,20/02/2023,9263813.47,2143299.22,260.68
+Chime,https://www.chime.com,Q4 2022,51,325,"{'tech': 23, 'sales': 27, 'admin': 1}",21.1,09/11/2024,2672915.82,3817796.97,179.93
+Chime,https://www.chime.com,Q1 2023,241,372.55,"{'tech': 176, 'sales': 9, 'admin': 56}",34.11,02/04/2024,8931673.49,4110023.25,145.13
+Chime,https://www.chime.com,Q2 2023,313,29.88,"{'tech': 113, 'sales': 171, 'admin': 29}",41.71,27/12/2023,5951678.05,369758.9,94.6
+Chime,https://www.chime.com,Q3 2023,401,28.12,"{'tech': 123, 'sales': 205, 'admin': 73}",57.02,06/12/2022,9251886.06,1813776.9,115.6
+Chime,https://www.chime.com,Q4 2023,60,-85.04,"{'tech': 39, 'sales': 16, 'admin': 5}",86.6,21/08/2024,6986568.06,444244.17,389.66
+Chime,https://www.chime.com,Q1 2024,74,23.33,"{'tech': 46, 'sales': 11, 'admin': 17}",99.85,13/05/2022,5281064.79,4334941.92,243.94
+Chime,https://www.chime.com,Q2 2024,189,155.41,"{'tech': 50, 'sales': 123, 'admin': 16}",42.92,22/05/2024,4765894.17,4681928.19,465.1
+Chime,https://www.chime.com,Q3 2024,135,-28.57,"{'tech': 112, 'sales': 7, 'admin': 16}",89.56,01/01/2020,4499787.84,4115863.31,377.54
+Chime,https://www.chime.com,Q4 2024,270,100,"{'tech': 79, 'sales': 168, 'admin': 23}",50.12,26/04/2021,9745262.67,2492055.9,169.86
+Databricks,https://databricks.com,Q1 2020,233,0,"{'tech': 79, 'sales': 124, 'admin': 30}",53.74,27/10/2023,2908139.5,816272.6,290.81
+Databricks,https://databricks.com,Q2 2020,293,25.75,"{'tech': 115, 'sales': 144, 'admin': 34}",74.93,04/06/2022,9443508.2,1797195.3,466.56
+Databricks,https://databricks.com,Q3 2020,191,-34.81,"{'tech': 110, 'sales': 40, 'admin': 41}",56.41,24/03/2021,1799050.7,2802235.23,175.77
+Databricks,https://databricks.com,Q4 2020,35,-81.68,"{'tech': 20, 'sales': 14, 'admin': 1}",47.16,29/04/2022,9364426.03,1582613.96,402.25
+Databricks,https://databricks.com,Q1 2021,82,134.29,"{'tech': 64, 'sales': 7, 'admin': 11}",93.55,10/12/2023,2123943.4,1790124.98,63.94
+Databricks,https://databricks.com,Q2 2021,181,120.73,"{'tech': 73, 'sales': 82, 'admin': 26}",43.77,01/12/2021,2522040.13,2199185.66,488.37
+Databricks,https://databricks.com,Q3 2021,83,-54.14,"{'tech': 40, 'sales': 15, 'admin': 28}",27.84,23/01/2020,3719338.1,2782160.36,118.65
+Databricks,https://databricks.com,Q4 2021,340,309.64,"{'tech': 93, 'sales': 187, 'admin': 60}",66.61,31/07/2022,1505479.18,3272223.74,118.16
+Databricks,https://databricks.com,Q1 2022,173,-49.12,"{'tech': 63, 'sales': 67, 'admin': 43}",80.41,18/01/2021,674663.95,3528524.36,320.24
+Databricks,https://databricks.com,Q2 2022,104,-39.88,"{'tech': 43, 'sales': 39, 'admin': 22}",22.1,14/06/2024,2536945.92,3653765.42,86.54
+Databricks,https://databricks.com,Q3 2022,278,167.31,"{'tech': 42, 'sales': 192, 'admin': 44}",18.3,07/11/2021,5666963.45,3413351.48,370.35
+Databricks,https://databricks.com,Q4 2022,366,31.65,"{'tech': 134, 'sales': 182, 'admin': 50}",52.04,13/10/2022,3694626.21,1044877.19,481.95
+Databricks,https://databricks.com,Q1 2023,258,-29.51,"{'tech': 184, 'sales': 62, 'admin': 12}",54.27,27/12/2024,2622222.18,1888502.09,343.89
+Databricks,https://databricks.com,Q2 2023,110,-57.36,"{'tech': 55, 'sales': 19, 'admin': 36}",63.5,31/07/2024,299305.42,2524457.91,405.71
+Databricks,https://databricks.com,Q3 2023,153,39.09,"{'tech': 74, 'sales': 76, 'admin': 3}",56.21,06/10/2021,8729717.25,4611995.16,121.34
+Databricks,https://databricks.com,Q4 2023,159,3.92,"{'tech': 18, 'sales': 112, 'admin': 29}",58.63,19/10/2021,5490813.12,3853820.53,52.36
+Databricks,https://databricks.com,Q1 2024,183,15.09,"{'tech': 134, 'sales': 23, 'admin': 26}",78.78,05/01/2023,5107197.08,1231007.47,173.85
+Databricks,https://databricks.com,Q2 2024,15,-91.8,"{'tech': 5, 'sales': 7, 'admin': 3}",88.21,10/09/2024,1825492.08,465058.8,54.79
+Databricks,https://databricks.com,Q3 2024,178,1086.67,"{'tech': 108, 'sales': 35, 'admin': 35}",65.14,02/10/2023,6932467.29,2378929.27,307.55
+Databricks,https://databricks.com,Q4 2024,111,-37.64,"{'tech': 53, 'sales': 56, 'admin': 2}",49.41,13/01/2023,5630110.83,3426749.6,242.58
+Discord,https://discord.com,Q1 2020,148,0,"{'tech': 94, 'sales': 52, 'admin': 2}",83.16,18/12/2020,5917239.54,3532644.82,202.82
+Discord,https://discord.com,Q2 2020,107,-27.7,"{'tech': 5, 'sales': 87, 'admin': 15}",41.87,24/02/2022,6665438.35,2016883.82,98.49
+Discord,https://discord.com,Q3 2020,11,-89.72,"{'tech': 5, 'sales': 5, 'admin': 1}",89.79,03/07/2024,246432.89,576532.55,424.55
+Discord,https://discord.com,Q4 2020,108,881.82,"{'tech': 40, 'sales': 44, 'admin': 24}",5.93,14/11/2021,6851214.05,4910109.86,58.23
+Discord,https://discord.com,Q1 2021,28,-74.07,"{'tech': 15, 'sales': 10, 'admin': 3}",96.01,01/11/2020,4451789.93,2732779.5,352.95
+Discord,https://discord.com,Q2 2021,139,396.43,"{'tech': 57, 'sales': 39, 'admin': 43}",28.05,02/06/2021,9825927.19,3461189.64,271.24
+Discord,https://discord.com,Q3 2021,61,-56.12,"{'tech': 25, 'sales': 25, 'admin': 11}",68.53,04/08/2021,9570955.28,3211603.87,287.69
+Discord,https://discord.com,Q4 2021,242,296.72,"{'tech': 175, 'sales': 10, 'admin': 57}",12.85,22/03/2022,8199255.13,4885556.68,229.72
+Discord,https://discord.com,Q1 2022,278,14.88,"{'tech': 87, 'sales': 147, 'admin': 44}",87.38,12/02/2024,430068.55,828803.03,200.19
+Discord,https://discord.com,Q2 2022,336,20.86,"{'tech': 106, 'sales': 204, 'admin': 26}",19.86,13/02/2021,8444883.14,1958505.11,141.68
+Discord,https://discord.com,Q3 2022,363,8.04,"{'tech': 231, 'sales': 48, 'admin': 84}",10.51,17/01/2024,1999569.64,4609139.45,439.12
+Discord,https://discord.com,Q4 2022,293,-19.28,"{'tech': 114, 'sales': 91, 'admin': 88}",30.2,10/08/2021,2253695.49,396127.77,128.51
+Discord,https://discord.com,Q1 2023,74,-74.74,"{'tech': 29, 'sales': 29, 'admin': 16}",60.67,17/01/2021,8322044.42,13956.53,63.96
+Discord,https://discord.com,Q2 2023,461,522.97,"{'tech': 218, 'sales': 192, 'admin': 51}",81.07,06/10/2021,6720334.43,1035347.26,60.26
+Discord,https://discord.com,Q3 2023,212,-54.01,"{'tech': 81, 'sales': 103, 'admin': 28}",62.6,14/07/2021,5731369.7,2942180.57,422.69
+Discord,https://discord.com,Q4 2023,159,-25,"{'tech': 34, 'sales': 93, 'admin': 32}",97.87,29/12/2024,9208667.25,813678.58,306.72
+Discord,https://discord.com,Q1 2024,21,-86.79,"{'tech': 5, 'sales': 9, 'admin': 7}",28.67,28/01/2021,2355374.45,3401433.1,172.21
+Discord,https://discord.com,Q2 2024,146,595.24,"{'tech': 103, 'sales': 21, 'admin': 22}",80.17,24/06/2021,5804755.5,754458.17,383
+Discord,https://discord.com,Q3 2024,174,19.18,"{'tech': 49, 'sales': 98, 'admin': 27}",39.8,19/04/2023,7388903.23,1972568.23,424.32
+Discord,https://discord.com,Q4 2024,79,-54.6,"{'tech': 9, 'sales': 36, 'admin': 34}",84.65,03/02/2024,4203276.66,474996.23,357.27
+Epic Games,https://www.epicgames.com,Q1 2020,330,0,"{'tech': 194, 'sales': 69, 'admin': 67}",86.92,15/03/2021,4335581.16,1238530.68,404
+Epic Games,https://www.epicgames.com,Q2 2020,23,-93.03,"{'tech': 11, 'sales': 11, 'admin': 1}",78.4,18/06/2023,3490115.89,2724041.67,425.92
+Epic Games,https://www.epicgames.com,Q3 2020,126,447.83,"{'tech': 27, 'sales': 88, 'admin': 11}",89.62,29/06/2023,7070276.86,3906541.69,173.16
+Epic Games,https://www.epicgames.com,Q4 2020,76,-39.68,"{'tech': 46, 'sales': 24, 'admin': 6}",50.52,19/06/2023,549545.76,422070.5,418.01
+Epic Games,https://www.epicgames.com,Q1 2021,157,106.58,"{'tech': 98, 'sales': 27, 'admin': 32}",23.16,19/08/2020,7973574.72,73605.99,287.77
+Epic Games,https://www.epicgames.com,Q2 2021,154,-1.91,"{'tech': 16, 'sales': 122, 'admin': 16}",91.36,03/12/2021,9637917.03,2516530.86,142.02
+Epic Games,https://www.epicgames.com,Q3 2021,226,46.75,"{'tech': 72, 'sales': 107, 'admin': 47}",60.43,13/03/2023,6777851.74,3162215.83,332.56
+Epic Games,https://www.epicgames.com,Q4 2021,213,-5.75,"{'tech': 117, 'sales': 74, 'admin': 22}",74.3,20/03/2020,2943607.43,999126.94,151.94
+Epic Games,https://www.epicgames.com,Q1 2022,301,41.31,"{'tech': 78, 'sales': 173, 'admin': 50}",61.85,13/04/2021,4817249.47,3147248.26,422.49
+Epic Games,https://www.epicgames.com,Q2 2022,183,-39.2,"{'tech': 115, 'sales': 51, 'admin': 17}",87.38,19/01/2023,2542002.24,4283098.68,293.23
+Epic Games,https://www.epicgames.com,Q3 2022,79,-56.83,"{'tech': 63, 'sales': 11, 'admin': 5}",33.18,10/12/2020,2438889.95,2876241.72,101.89
+Epic Games,https://www.epicgames.com,Q4 2022,96,21.52,"{'tech': 16, 'sales': 34, 'admin': 46}",72.63,11/09/2020,6515721.63,2564388.46,176.45
+Epic Games,https://www.epicgames.com,Q1 2023,61,-36.46,"{'tech': 23, 'sales': 10, 'admin': 28}",61.11,07/09/2023,2120388.53,979540.78,327.17
+Epic Games,https://www.epicgames.com,Q2 2023,139,127.87,"{'tech': 68, 'sales': 63, 'admin': 8}",24.09,12/12/2024,4702541,1830100.84,405.52
+Epic Games,https://www.epicgames.com,Q3 2023,195,40.29,"{'tech': 125, 'sales': 27, 'admin': 43}",73.62,27/08/2020,8627273.48,1743201.34,151.73
+Epic Games,https://www.epicgames.com,Q4 2023,193,-1.03,"{'tech': 85, 'sales': 95, 'admin': 13}",77.98,09/07/2023,8127918.9,2262128.95,421.43
+Epic Games,https://www.epicgames.com,Q1 2024,105,-45.6,"{'tech': 36, 'sales': 55, 'admin': 14}",76.05,28/02/2021,969956.78,2056206.38,458.17
+Epic Games,https://www.epicgames.com,Q2 2024,89,-15.24,"{'tech': 74, 'sales': 6, 'admin': 9}",91.47,23/05/2020,8355101.3,3388471.74,281.35
+Epic Games,https://www.epicgames.com,Q3 2024,81,-8.99,"{'tech': 47, 'sales': 19, 'admin': 15}",46.26,03/03/2024,4185036.17,3049950.16,259.21
+Epic Games,https://www.epicgames.com,Q4 2024,33,-59.26,"{'tech': 6, 'sales': 18, 'admin': 9}",40.54,12/11/2024,3500020.07,567496.76,400.82
+Instacart,https://www.instacart.com,Q1 2020,265,0,"{'tech': 83, 'sales': 178, 'admin': 4}",30.26,08/05/2020,6722344.72,365065.7,437.3
+Instacart,https://www.instacart.com,Q2 2020,82,-69.06,"{'tech': 9, 'sales': 49, 'admin': 24}",52.48,16/09/2022,8324911.69,4710423.2,161.56
+Instacart,https://www.instacart.com,Q3 2020,44,-46.34,"{'tech': 22, 'sales': 20, 'admin': 2}",16.62,02/11/2022,6621308.83,3244202.63,434.84
+Instacart,https://www.instacart.com,Q4 2020,104,136.36,"{'tech': 7, 'sales': 72, 'admin': 25}",38.47,11/10/2022,6342986.37,4286235.77,399.31
+Instacart,https://www.instacart.com,Q1 2021,204,96.15,"{'tech': 117, 'sales': 36, 'admin': 51}",88.9,27/09/2021,2753813.83,2346292.23,265.69
+Instacart,https://www.instacart.com,Q2 2021,193,-5.39,"{'tech': 85, 'sales': 56, 'admin': 52}",18.74,27/10/2022,3120353.51,4485074.95,368.95
+Instacart,https://www.instacart.com,Q3 2021,89,-53.89,"{'tech': 34, 'sales': 47, 'admin': 8}",99.7,17/09/2021,1618951.65,971487.13,367.78
+Instacart,https://www.instacart.com,Q4 2021,25,-71.91,"{'tech': 14, 'sales': 5, 'admin': 6}",94.98,28/10/2024,498654.92,4973377.11,164.54
+Instacart,https://www.instacart.com,Q1 2022,85,240,"{'tech': 43, 'sales': 31, 'admin': 11}",12.49,15/07/2024,2110639.06,2966940.7,228.14
+Instacart,https://www.instacart.com,Q2 2022,192,125.88,"{'tech': 71, 'sales': 67, 'admin': 54}",31.17,20/10/2022,6633461.95,361088.07,308.86
+Instacart,https://www.instacart.com,Q3 2022,279,45.31,"{'tech': 188, 'sales': 90, 'admin': 1}",21.32,16/03/2024,7488213.27,3716343.83,214.91
+Instacart,https://www.instacart.com,Q4 2022,210,-24.73,"{'tech': 69, 'sales': 93, 'admin': 48}",39.1,03/02/2020,4658185.38,4279228.87,143.91
+Instacart,https://www.instacart.com,Q1 2023,165,-21.43,"{'tech': 69, 'sales': 76, 'admin': 20}",82.01,24/03/2022,6627116.02,4222433.49,379.82
+Instacart,https://www.instacart.com,Q2 2023,38,-76.97,"{'tech': 5, 'sales': 20, 'admin': 13}",77.49,28/03/2020,7943033.43,594386.19,279.3
+Instacart,https://www.instacart.com,Q3 2023,18,-52.63,"{'tech': 8, 'sales': 9, 'admin': 1}",86.94,13/12/2021,2197927.61,1733385.29,407.92
+Instacart,https://www.instacart.com,Q4 2023,57,216.67,"{'tech': 18, 'sales': 24, 'admin': 15}",39.86,05/10/2022,2625667.93,1426945.27,148.66
+Instacart,https://www.instacart.com,Q1 2024,21,-63.16,"{'tech': 9, 'sales': 9, 'admin': 3}",77.67,24/07/2020,8965101.19,1411793.95,197.03
+Instacart,https://www.instacart.com,Q2 2024,331,1476.19,"{'tech': 209, 'sales': 49, 'admin': 73}",48.71,01/10/2023,322378.66,4099016.71,84.16
+Instacart,https://www.instacart.com,Q3 2024,51,-84.59,"{'tech': 27, 'sales': 17, 'admin': 7}",69.65,19/06/2023,5567240.07,2954757.8,133.84
+Instacart,https://www.instacart.com,Q4 2024,109,113.73,"{'tech': 66, 'sales': 13, 'admin': 30}",7.83,27/10/2022,1430121.05,1201815.47,409.05
+Klarna,https://www.klarna.com,Q1 2020,47,0,"{'tech': 20, 'sales': 24, 'admin': 3}",53.09,18/06/2021,900536.79,4187834.61,386.88
+Klarna,https://www.klarna.com,Q2 2020,138,193.62,"{'tech': 27, 'sales': 74, 'admin': 37}",17.83,03/07/2024,7619729.89,4836353.5,379.22
+Klarna,https://www.klarna.com,Q3 2020,186,34.78,"{'tech': 81, 'sales': 67, 'admin': 38}",4.45,08/12/2024,8298753.45,4213640.24,62.44
+Klarna,https://www.klarna.com,Q4 2020,401,115.59,"{'tech': 182, 'sales': 160, 'admin': 59}",82.16,16/01/2022,5107217.36,227057.88,54.57
+Klarna,https://www.klarna.com,Q1 2021,244,-39.15,"{'tech': 97, 'sales': 103, 'admin': 44}",2.93,20/03/2024,4676969.6,322886.81,167.43
+Klarna,https://www.klarna.com,Q2 2021,118,-51.64,"{'tech': 47, 'sales': 59, 'admin': 12}",55.96,01/09/2024,8886578.24,1714164.93,402.8
+Klarna,https://www.klarna.com,Q3 2021,227,92.37,"{'tech': 134, 'sales': 90, 'admin': 3}",93.24,29/09/2024,2297858.27,544300.7,319.17
+Klarna,https://www.klarna.com,Q4 2021,126,-44.49,"{'tech': 37, 'sales': 74, 'admin': 15}",48.01,06/03/2020,4544982.28,1073043.33,117.7
+Klarna,https://www.klarna.com,Q1 2022,230,82.54,"{'tech': 59, 'sales': 131, 'admin': 40}",30.6,01/01/2020,3437147.1,709835.41,96.02
+Klarna,https://www.klarna.com,Q2 2022,126,-45.22,"{'tech': 8, 'sales': 87, 'admin': 31}",34.26,09/05/2022,3990461.27,4146734.87,271.22
+Klarna,https://www.klarna.com,Q3 2022,278,120.63,"{'tech': 133, 'sales': 138, 'admin': 7}",21.34,23/05/2022,9179468.48,255262.98,278.96
+Klarna,https://www.klarna.com,Q4 2022,246,-11.51,"{'tech': 91, 'sales': 148, 'admin': 7}",12.4,14/10/2020,3913882.69,61485.68,247.22
+Klarna,https://www.klarna.com,Q1 2023,18,-92.68,"{'tech': 8, 'sales': 9, 'admin': 1}",69.7,16/07/2023,3914603.05,3630920.45,72.45
+Klarna,https://www.klarna.com,Q2 2023,287,1494.44,"{'tech': 59, 'sales': 174, 'admin': 54}",88.29,03/07/2022,3989927.82,2403554.08,466.42
+Klarna,https://www.klarna.com,Q3 2023,190,-33.8,"{'tech': 58, 'sales': 128, 'admin': 4}",82.16,22/07/2023,6295693.51,479520.08,180.38
+Klarna,https://www.klarna.com,Q4 2023,231,21.58,"{'tech': 196, 'sales': 11, 'admin': 24}",88.23,21/06/2021,2599037.01,4952720.58,267.8
+Klarna,https://www.klarna.com,Q1 2024,177,-23.38,"{'tech': 45, 'sales': 52, 'admin': 80}",75.02,04/09/2024,7446228.29,1377853.49,371.21
+Klarna,https://www.klarna.com,Q2 2024,51,-71.19,"{'tech': 40, 'sales': 7, 'admin': 4}",8.88,02/10/2020,6134041.05,3065188.97,86.73
+Klarna,https://www.klarna.com,Q3 2024,101,98.04,"{'tech': 18, 'sales': 24, 'admin': 59}",84.3,25/02/2021,7779626.2,4648562.55,313.29
+Klarna,https://www.klarna.com,Q4 2024,89,-11.88,"{'tech': 12, 'sales': 25, 'admin': 52}",86.77,29/05/2021,7822012.11,2123787.33,126.26
+Plaid,https://plaid.com,Q1 2020,181,0,"{'tech': 43, 'sales': 107, 'admin': 31}",83.94,07/12/2023,9029066.31,3222037.38,214.01
+Plaid,https://plaid.com,Q2 2020,74,-59.12,"{'tech': 14, 'sales': 42, 'admin': 18}",99.65,26/01/2022,3871845.38,2740006.77,472.69
+Plaid,https://plaid.com,Q3 2020,165,122.97,"{'tech': 105, 'sales': 59, 'admin': 1}",8.46,06/07/2021,6448557.47,3594489.05,281.46
+Plaid,https://plaid.com,Q4 2020,94,-43.03,"{'tech': 62, 'sales': 29, 'admin': 3}",66.93,28/03/2022,7371834.76,4875789.53,270.54
+Plaid,https://plaid.com,Q1 2021,418,344.68,"{'tech': 167, 'sales': 214, 'admin': 37}",31.05,03/06/2024,5427092.54,3405582.38,417.73
+Plaid,https://plaid.com,Q2 2021,16,-96.17,"{'tech': 9, 'sales': 6, 'admin': 1}",29.81,02/01/2021,4534301.31,4762945.96,189.3
+Plaid,https://plaid.com,Q3 2021,225,1306.25,"{'tech': 131, 'sales': 64, 'admin': 30}",10.09,09/03/2022,6137132.7,4899781.7,198.65
+Plaid,https://plaid.com,Q4 2021,42,-81.33,"{'tech': 12, 'sales': 16, 'admin': 14}",50.47,24/11/2020,9920780.79,3422443.49,269.64
+Plaid,https://plaid.com,Q1 2022,120,185.71,"{'tech': 57, 'sales': 56, 'admin': 7}",9.73,22/07/2023,5844588.45,2778683.57,56.16
+Plaid,https://plaid.com,Q2 2022,167,39.17,"{'tech': 82, 'sales': 41, 'admin': 44}",57.09,24/05/2021,4406811.74,4379672.4,439.63
+Plaid,https://plaid.com,Q3 2022,106,-36.53,"{'tech': 47, 'sales': 48, 'admin': 11}",97.93,15/12/2022,1716889.44,4991894.31,132.18
+Plaid,https://plaid.com,Q4 2022,141,33.02,"{'tech': 72, 'sales': 40, 'admin': 29}",74.48,08/06/2022,8349862.4,3452319.35,469.43
+Plaid,https://plaid.com,Q1 2023,103,-26.95,"{'tech': 43, 'sales': 22, 'admin': 38}",20.5,16/08/2024,1110927.18,346635.2,157.42
+Plaid,https://plaid.com,Q2 2023,310,200.97,"{'tech': 105, 'sales': 179, 'admin': 26}",77,11/11/2021,4818245.82,492334.48,50.23
+Plaid,https://plaid.com,Q3 2023,87,-71.94,"{'tech': 42, 'sales': 39, 'admin': 6}",69.04,10/05/2020,731145.03,3631661.01,92.24
+Plaid,https://plaid.com,Q4 2023,16,-81.61,"{'tech': 7, 'sales': 7, 'admin': 2}",26.11,05/08/2022,6212502.43,3982016.96,263.03
+Plaid,https://plaid.com,Q1 2024,446,2687.5,"{'tech': 208, 'sales': 191, 'admin': 47}",88.74,17/09/2024,1831416.07,1939042.05,310.72
+Plaid,https://plaid.com,Q2 2024,328,-26.46,"{'tech': 172, 'sales': 126, 'admin': 30}",78.85,12/04/2021,4748613.07,4089712,298.27
+Plaid,https://plaid.com,Q3 2024,147,-55.18,"{'tech': 102, 'sales': 42, 'admin': 3}",24.25,11/02/2020,1346456.05,3762699.99,266.16
+Plaid,https://plaid.com,Q4 2024,181,23.13,"{'tech': 153, 'sales': 19, 'admin': 9}",6.88,08/12/2020,4518141.25,1703908.25,330.9
+Robinhood,https://robinhood.com,Q1 2020,256,0,"{'tech': 145, 'sales': 53, 'admin': 58}",37.86,31/12/2023,7036535.73,2632183.73,415.81
+Robinhood,https://robinhood.com,Q2 2020,133,-48.05,"{'tech': 48, 'sales': 65, 'admin': 20}",88.44,04/07/2022,9721372.24,4192393.65,223.32
+Robinhood,https://robinhood.com,Q3 2020,248,86.47,"{'tech': 24, 'sales': 168, 'admin': 56}",30.55,25/12/2023,4605564.91,2844591.77,487.29
+Robinhood,https://robinhood.com,Q4 2020,164,-33.87,"{'tech': 61, 'sales': 97, 'admin': 6}",20.34,26/04/2024,1887011.7,2825078,240.25
+Robinhood,https://robinhood.com,Q1 2021,163,-0.61,"{'tech': 25, 'sales': 123, 'admin': 15}",79.64,14/10/2020,6562858.04,3986520.06,104.44
+Robinhood,https://robinhood.com,Q2 2021,146,-10.43,"{'tech': 42, 'sales': 78, 'admin': 26}",18.58,26/10/2023,1696069.08,4116188.6,137.23
+Robinhood,https://robinhood.com,Q3 2021,63,-56.85,"{'tech': 8, 'sales': 29, 'admin': 26}",9.52,23/10/2020,2707361.53,2951319.22,499.16
+Robinhood,https://robinhood.com,Q4 2021,377,498.41,"{'tech': 214, 'sales': 134, 'admin': 29}",30.99,17/03/2023,7351015.93,1060910.18,215.67
+Robinhood,https://robinhood.com,Q1 2022,214,-43.24,"{'tech': 89, 'sales': 77, 'admin': 48}",12.79,31/01/2021,5321678.14,3979454.72,295.16
+Robinhood,https://robinhood.com,Q2 2022,257,20.09,"{'tech': 193, 'sales': 31, 'admin': 33}",48.18,22/02/2023,7640925.4,4971055.87,246.16
+Robinhood,https://robinhood.com,Q3 2022,84,-67.32,"{'tech': 22, 'sales': 59, 'admin': 3}",37.47,14/09/2024,5354765.79,504630.22,98.19
+Robinhood,https://robinhood.com,Q4 2022,23,-72.62,"{'tech': 8, 'sales': 10, 'admin': 5}",3.31,23/10/2022,1622852.35,3368892.17,174.05
+Robinhood,https://robinhood.com,Q1 2023,12,-47.83,"{'tech': 5, 'sales': 6, 'admin': 1}",71.66,07/11/2021,4861314.48,34221.83,73.14
+Robinhood,https://robinhood.com,Q2 2023,93,675,"{'tech': 7, 'sales': 69, 'admin': 17}",79.95,05/04/2021,2668966.57,669112.34,227.7
+Robinhood,https://robinhood.com,Q3 2023,105,12.9,"{'tech': 71, 'sales': 13, 'admin': 21}",67.7,03/06/2023,2675895.35,4105115.87,206.3
+Robinhood,https://robinhood.com,Q4 2023,124,18.1,"{'tech': 27, 'sales': 68, 'admin': 29}",37.82,07/11/2022,7873091.37,4408675.14,191.44
+Robinhood,https://robinhood.com,Q1 2024,138,11.29,"{'tech': 51, 'sales': 70, 'admin': 17}",30.34,06/11/2021,5997439.65,3563939.68,330.27
+Robinhood,https://robinhood.com,Q2 2024,284,105.8,"{'tech': 117, 'sales': 134, 'admin': 33}",32.18,27/02/2021,1158834.92,4627951.43,455.38
+Robinhood,https://robinhood.com,Q3 2024,102,-64.08,"{'tech': 32, 'sales': 66, 'admin': 4}",54.91,21/02/2022,4453425.3,3299632.1,231.39
+Robinhood,https://robinhood.com,Q4 2024,28,-72.55,"{'tech': 14, 'sales': 8, 'admin': 6}",46.12,31/10/2024,8956656.05,4515740.23,51.4
+SpaceX,https://www.spacex.com,Q1 2020,109,0,"{'tech': 21, 'sales': 76, 'admin': 12}",70.73,01/10/2022,3404405.7,233559.64,318.26
+SpaceX,https://www.spacex.com,Q2 2020,29,-73.39,"{'tech': 10, 'sales': 16, 'admin': 3}",87.42,18/10/2021,974684.82,958900.94,98.63
+SpaceX,https://www.spacex.com,Q3 2020,280,865.52,"{'tech': 110, 'sales': 141, 'admin': 29}",87.08,06/04/2020,4610893.45,2559262.3,343.86
+SpaceX,https://www.spacex.com,Q4 2020,42,-85,"{'tech': 20, 'sales': 7, 'admin': 15}",6.41,24/12/2021,6986880.4,4911915.09,235.13
+SpaceX,https://www.spacex.com,Q1 2021,318,657.14,"{'tech': 207, 'sales': 46, 'admin': 65}",42.88,06/12/2023,2467993.9,2671586.98,182.84
+SpaceX,https://www.spacex.com,Q2 2021,43,-86.48,"{'tech': 12, 'sales': 19, 'admin': 12}",6.76,06/01/2021,7699800.23,1126912.31,333.99
+SpaceX,https://www.spacex.com,Q3 2021,122,183.72,"{'tech': 95, 'sales': 5, 'admin': 22}",56.23,16/01/2020,7275412.84,2637083.16,472.82
+SpaceX,https://www.spacex.com,Q4 2021,127,4.1,"{'tech': 80, 'sales': 13, 'admin': 34}",13.31,19/12/2022,1710882.64,1226006.34,332.41
+SpaceX,https://www.spacex.com,Q1 2022,101,-20.47,"{'tech': 20, 'sales': 78, 'admin': 3}",84.8,20/09/2020,8508004.46,2595286.53,354.08
+SpaceX,https://www.spacex.com,Q2 2022,347,243.56,"{'tech': 156, 'sales': 147, 'admin': 44}",64.14,03/07/2020,3650340.86,3603561.45,400.25
+SpaceX,https://www.spacex.com,Q3 2022,185,-46.69,"{'tech': 107, 'sales': 58, 'admin': 20}",35.19,22/12/2023,9949457.24,4168664.53,392.71
+SpaceX,https://www.spacex.com,Q4 2022,175,-5.41,"{'tech': 54, 'sales': 94, 'admin': 27}",59.82,10/07/2024,5111269.3,188398.81,289.76
+SpaceX,https://www.spacex.com,Q1 2023,156,-10.86,"{'tech': 49, 'sales': 98, 'admin': 9}",52.71,01/01/2022,9098425.29,3610318.3,232.16
+SpaceX,https://www.spacex.com,Q2 2023,141,-9.62,"{'tech': 74, 'sales': 44, 'admin': 23}",94.57,31/10/2020,248455.52,4723223.22,250.41
+SpaceX,https://www.spacex.com,Q3 2023,228,61.7,"{'tech': 151, 'sales': 33, 'admin': 44}",28.41,02/09/2022,8297601.71,4072782.61,288.27
+SpaceX,https://www.spacex.com,Q4 2023,67,-70.61,"{'tech': 27, 'sales': 12, 'admin': 28}",88.9,04/10/2021,9669600.95,842190.27,488.74
+SpaceX,https://www.spacex.com,Q1 2024,359,435.82,"{'tech': 155, 'sales': 179, 'admin': 25}",42.49,01/10/2021,1807066.94,4303052.38,55.34
+SpaceX,https://www.spacex.com,Q2 2024,90,-74.93,"{'tech': 48, 'sales': 35, 'admin': 7}",9.14,21/06/2022,3955490.59,157445.65,430.29
+SpaceX,https://www.spacex.com,Q3 2024,72,-20,"{'tech': 23, 'sales': 32, 'admin': 17}",11.36,17/03/2022,3897957.97,98831.65,84.84
+SpaceX,https://www.spacex.com,Q4 2024,51,-29.17,"{'tech': 7, 'sales': 15, 'admin': 29}",40.75,29/01/2020,3508710.7,468346.84,474.21
+Stripe,https://stripe.com,Q1 2020,159,0,"{'tech': 76, 'sales': 45, 'admin': 38}",28.17,26/04/2020,1688028.74,1816831.43,126.55
+Stripe,https://stripe.com,Q2 2020,192,20.75,"{'tech': 11, 'sales': 133, 'admin': 48}",23.78,02/08/2020,8122377.71,3390262.56,92
+Stripe,https://stripe.com,Q3 2020,79,-58.85,"{'tech': 53, 'sales': 6, 'admin': 20}",29.13,23/03/2024,9198935.94,1792493.75,193.32
+Stripe,https://stripe.com,Q4 2020,121,53.16,"{'tech': 97, 'sales': 20, 'admin': 4}",46.33,25/09/2024,1374982.42,2103872.61,179.25
+Stripe,https://stripe.com,Q1 2021,31,-74.38,"{'tech': 16, 'sales': 13, 'admin': 2}",48.44,23/04/2022,4541606.26,680881.17,434.53
+Stripe,https://stripe.com,Q2 2021,292,841.94,"{'tech': 66, 'sales': 157, 'admin': 69}",97.52,19/03/2020,1463080.36,4459598.59,177.11
+Stripe,https://stripe.com,Q3 2021,181,-38.01,"{'tech': 45, 'sales': 100, 'admin': 36}",32.93,22/02/2022,8441108.64,2796731.75,386.26
+Stripe,https://stripe.com,Q4 2021,17,-90.61,"{'tech': 6, 'sales': 8, 'admin': 3}",90.82,12/03/2022,2088886.53,2877074.14,189.49
+Stripe,https://stripe.com,Q1 2022,210,1135.29,"{'tech': 53, 'sales': 72, 'admin': 85}",32.41,19/09/2021,2212665.1,2630003.08,413.54
+Stripe,https://stripe.com,Q2 2022,285,35.71,"{'tech': 126, 'sales': 111, 'admin': 48}",12.85,03/03/2023,9128272.97,3109880.17,491.11
+Stripe,https://stripe.com,Q3 2022,275,-3.51,"{'tech': 107, 'sales': 120, 'admin': 48}",30.61,14/06/2024,5044049.39,3018895.74,196.15
+Stripe,https://stripe.com,Q4 2022,109,-60.36,"{'tech': 63, 'sales': 10, 'admin': 36}",35.04,03/02/2020,7966048.03,4439692.59,441.1
+Stripe,https://stripe.com,Q1 2023,185,69.72,"{'tech': 55, 'sales': 74, 'admin': 56}",40.64,24/09/2023,602386.65,4680775.17,128.08
+Stripe,https://stripe.com,Q2 2023,57,-69.19,"{'tech': 19, 'sales': 30, 'admin': 8}",70.17,05/10/2024,5187170.04,1083619.22,266.49
+Stripe,https://stripe.com,Q3 2023,54,-5.26,"{'tech': 9, 'sales': 19, 'admin': 26}",70.14,07/10/2020,4431772.38,973945.53,391.93
+Stripe,https://stripe.com,Q4 2023,191,253.7,"{'tech': 79, 'sales': 88, 'admin': 24}",6.24,17/10/2021,3530451.72,1752485.31,206.41
+Stripe,https://stripe.com,Q1 2024,424,121.99,"{'tech': 187, 'sales': 176, 'admin': 61}",66.13,05/06/2023,5892205.19,1267032.27,109.91
+Stripe,https://stripe.com,Q2 2024,86,-79.72,"{'tech': 46, 'sales': 23, 'admin': 17}",49.31,08/05/2020,3619047.8,1262653.14,395.45
+Stripe,https://stripe.com,Q3 2024,120,39.53,"{'tech': 53, 'sales': 54, 'admin': 13}",87.97,28/08/2022,1524482.78,1752753.36,161.27
+Stripe,https://stripe.com,Q4 2024,219,82.5,"{'tech': 87, 'sales': 83, 'admin': 49}",97.59,07/11/2020,7630251.28,2752194.08,60.73
