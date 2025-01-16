@@ -7,3 +7,6 @@ requests
 python-dotenv
 pydantic
 pdf2image
+matplotlib
+seaborn
+fpdf
