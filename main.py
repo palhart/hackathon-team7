@@ -17,6 +17,9 @@ EMAIL_ADDRESS = os.getenv('GMAIL_USER')
 EMAIL_PASSWORD = os.getenv('GMAIL_PASSWORD')
 api_key = os.getenv('OPENAI_API_KEY')
 
+if not EMAIL_ADDRESS or not EMAIL_PASSWORD:
+    raise ValueError("Please set GMAIL_USER and GMAIL_PASSWORD environment variables.")
+
 # Directory to save attachments
 ATTACHMENT_DIR = './attachments'
 
