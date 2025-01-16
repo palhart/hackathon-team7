@@ -4,3 +4,4 @@ graphs/
 images/
 hack_venv
 attachments/
+dataset/benchmark_db.csv
