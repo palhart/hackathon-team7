@@ -37,7 +37,7 @@ def analyze_text_with_openai(text):
         }],
         max_tokens=1500
     )
-    return response.choices[0].text.strip()
+    return response.choices[0].message.content.strip()
 
 def generate_comparison_table(company_data):
     """Generates a comparison table of company performance vs. similar companies."""
