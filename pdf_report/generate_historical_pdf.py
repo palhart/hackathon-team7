@@ -27,7 +27,6 @@ def load_data(file_path):
 
 # Function 2: Generate graphs for a company
 def generate_graphs(company_name, data):
-   
     df = data[data['company_name'] == company_name].copy()
     
     # Create directory for graphs
@@ -36,24 +35,23 @@ def generate_graphs(company_name, data):
         shutil.rmtree(graph_dir)
     os.makedirs(graph_dir, exist_ok=True)
 
-    
     # Set the style
     sns.set_style("whitegrid")
-    fig = plt.figure(figsize=(20, 15))
-
-    # Assuming df is the input DataFrame
+    
+    # Data preparation
     df['index'] = df['quarter'].astype(str) + '-' + df['year'].astype(str)
     df.set_index('index', inplace=True)
-
-    # Converting departments into column variables
+    
+    # Department renaming
     df.rename(columns={
         'tech_employee': 'tech',
         'sales_employee': 'sales',
         'admin_employee': 'admin'
     }, inplace=True)
 
-    # Create a 2x2 plot layout
-    fig = plt.figure(figsize=(15, 10))
+    # Create figure with adjusted spacing
+    fig = plt.figure(figsize=(15, 12))
+    plt.subplots_adjust(bottom=0.2, hspace=0.4)
 
     # 1. Headcount Growth Over Time
     plt.subplot(2, 2, 1)
@@ -61,6 +59,7 @@ def generate_graphs(company_name, data):
     plt.title('Headcount Growth Rate Over Time', fontsize=12, pad=15)
     plt.xlabel('Quarter-Year')
     plt.ylabel('Growth Rate (%)')
+    plt.xticks(rotation=90)
     plt.grid(True, alpha=0.3)
 
     # 2. Department Distribution Stacked Area
@@ -73,10 +72,11 @@ def generate_graphs(company_name, data):
     plt.title('Department Distribution Over Time', fontsize=12, pad=15)
     plt.xlabel('Quarter-Year')
     plt.ylabel('Number of Employees')
+    plt.xticks(rotation=90)
     plt.legend(loc='upper right')
     plt.grid(True, alpha=0.3)
 
-    # 3. Relationship between CAC and GMV
+    # 3. GMV vs CAC Scatter
     plt.subplot(2, 2, 3)
     plt.scatter(df['Financials_GMV'], df['Financials_CAC'], alpha=0.6)
     plt.title('Relationship: GMV vs CAC', fontsize=12, pad=15)
@@ -97,11 +97,11 @@ def generate_graphs(company_name, data):
     plt.title('Department Ratio Over Time', fontsize=12, pad=15)
     plt.xlabel('Quarter-Year')
     plt.ylabel('Ratio')
+    plt.xticks(rotation=90)
     plt.legend(loc='upper right')
     plt.grid(True, alpha=0.3)
     
-    
-    plt.savefig(f"{graph_dir}/report_graph_{company_name}.png")
+    plt.savefig(f"{graph_dir}/report_graph_{company_name}.png", bbox_inches='tight')
     plt.close(fig)
 
     return graph_dir
