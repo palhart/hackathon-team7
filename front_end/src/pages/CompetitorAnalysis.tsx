@@ -4,23 +4,23 @@ import { BarChart, Bar, XAxis, YAxis, CartesianGrid, Tooltip, Legend, Responsive
 function CompetitorAnalysis() {
   // Process data for fintech companies
   const competitors = [
-    { name: "Revolut", employees: 9200, funding: 1738, traffic: 53454127 },
-    { name: "Wise", employees: 4925, funding: 1665, traffic: 130095596 },
-    { name: "Chime", employees: 1635, funding: 2292, traffic: 31206766 },
-    { name: "Starling", employees: 2277, funding: 1086, traffic: 3516617 },
-    { name: "Monzo", employees: 2814, funding: 1737, traffic: 10963289 },
-    { name: "N26", employees: 1556, funding: 1719, traffic: 9946288 },
-    { name: "Monese", employees: 190, funding: 205, traffic: 560438 },
-    { name: "bunq", employees: 576, funding: 422, traffic: 6824137 },
-    { name: "Qonto", employees: 1453, funding: 709, traffic: 10336450 },
-    { name: "Finom", employees: 399, funding: 108, traffic: 1733630 }
+    { name: "Company1", employees: 9200, funding: 1738, traffic: 53454127 },
+    { name: "Company2", employees: 4925, funding: 1665, traffic: 130095596 },
+    { name: "Company3", employees: 1635, funding: 2292, traffic: 31206766 },
+    { name: "Company4", employees: 2277, funding: 1086, traffic: 3516617 },
+    { name: "Company5", employees: 2814, funding: 1737, traffic: 10963289 },
+    { name: "Company6", employees: 1556, funding: 1719, traffic: 9946288 },
+    { name: "Company7", employees: 190, funding: 205, traffic: 560438 },
+    { name: "Company8", employees: 576, funding: 422, traffic: 6824137 },
+    { name: "Company9", employees: 1453, funding: 709, traffic: 10336450 },
+    { name: "Company10", employees: 399, funding: 108, traffic: 1733630 }
   ];
 
   const quarterlyTraffic = [
-    { quarter: "2024Q1", Revolut: 44996864, Wise: 105217477, Chime: 26874593, Starling: 3687564, Monzo: 9515359, N26: 10007888, Monese: 740946, bunq: 7002136, Qonto: 9038936, Finom: 1283383 },
-    { quarter: "2024Q2", Revolut: 44819127, Wise: 117876626, Chime: 26372764, Starling: 3400923, Monzo: 9582490, N26: 10573925, Monese: 657720, bunq: 7135522, Qonto: 8831727, Finom: 1390299 },
-    { quarter: "2024Q3", Revolut: 49001065, Wise: 129937193, Chime: 29077656, Starling: 4033578, Monzo: 11176304, N26: 10788831, Monese: 694623, bunq: 7634651, Qonto: 9347201, Finom: 1490439 },
-    { quarter: "2024Q4", Revolut: 53454127, Wise: 130095596, Chime: 31206766, Starling: 3516617, Monzo: 10963289, N26: 9946288, Monese: 560438, bunq: 6824137, Qonto: 10336450, Finom: 1733630 }
+    { quarter: "2024Q1", Company1: 44996864, Company2: 105217477, Company3: 26874593, Company4: 3687564, Company5: 9515359, Company6: 10007888, Company7: 740946, Company8: 7002136, Company9: 9038936, Company10: 1283383 },
+    { quarter: "2024Q2", Company1: 44819127, Company2: 117876626, Company3: 26372764, Company4: 3400923, Company5: 9582490, Company6: 10573925, Company7: 657720, Company8: 7135522, Company9: 8831727, Company10: 1390299 },
+    { quarter: "2024Q3", Company1: 49001065, Company2: 129937193, Company3: 29077656, Company4: 4033578, Company5: 11176304, Company6: 10788831, Company7: 694623, Company8: 7634651, Company9: 9347201, Company10: 1490439 },
+    { quarter: "2024Q4", Company1: 53454127, Company2: 130095596, Company3: 31206766, Company4: 3516617, Company5: 10963289, Company6: 9946288, Company7: 560438, Company8: 6824137, Company9: 10336450, Company10: 1733630 }
   ];
 
   // Calculate market share based on latest quarter traffic

@@ -1,8 +1,8 @@
 // Historical data for Databricks
 export const historicalData = [
   {
-    company_name: "Databricks",
-    company_website: "https://databricks.com",
+    company_name: "Company 1",
+    company_website: "https://company1.com",
     quarter: 1,
     Headcount_Count: 233,
     Headcount_Growth: 0.0,
@@ -17,8 +17,8 @@ export const historicalData = [
     year: 2020
   },
   {
-    company_name: "Databricks",
-    company_website: "https://databricks.com",
+    company_name: "Company 1",
+    company_website: "https://company1.com",
     quarter: 2,
     Headcount_Count: 293,
     Headcount_Growth: 25.75,
@@ -33,8 +33,8 @@ export const historicalData = [
     year: 2020
   },
   {
-    company_name: "Databricks",
-    company_website: "https://databricks.com",
+    company_name: "Company 1",
+    company_website: "https://company1.com",
     quarter: 3,
     Headcount_Count: 191,
     Headcount_Growth: -34.81,
@@ -49,8 +49,8 @@ export const historicalData = [
     year: 2020
   },
   {
-    company_name: "Databricks",
-    company_website: "https://databricks.com",
+    company_name: "Company 1",
+    company_website: "https://company1.com",
     quarter: 4,
     Headcount_Count: 35,
     Headcount_Growth: -81.68,
@@ -65,8 +65,8 @@ export const historicalData = [
     year: 2020
   },
   {
-    company_name: "Databricks",
-    company_website: "https://databricks.com",
+    company_name: "Company 1",
+    company_website: "https://company1.com",
     quarter: 1,
     Headcount_Count: 82,
     Headcount_Growth: 134.29,
@@ -81,8 +81,8 @@ export const historicalData = [
     year: 2021
   },
   {
-    company_name: "Databricks",
-    company_website: "https://databricks.com",
+    company_name: "Company 1",
+    company_website: "https://company1.com",
     quarter: 2,
     Headcount_Count: 181,
     Headcount_Growth: 120.73,
@@ -97,8 +97,8 @@ export const historicalData = [
     year: 2021
   },
   {
-    company_name: "Databricks",
-    company_website: "https://databricks.com",
+    company_name: "Company 1",
+    company_website: "https://company1.com",
     quarter: 3,
     Headcount_Count: 83,
     Headcount_Growth: -54.14,
@@ -113,8 +113,8 @@ export const historicalData = [
     year: 2021
   },
   {
-    company_name: "Databricks",
-    company_website: "https://databricks.com",
+    company_name: "Company 1",
+    company_website: "https://company1.com",
     quarter: 4,
     Headcount_Count: 340,
     Headcount_Growth: 309.64,
@@ -129,8 +129,8 @@ export const historicalData = [
     year: 2021
   },
   {
-    company_name: "Databricks",
-    company_website: "https://databricks.com",
+    company_name: "Company 1",
+    company_website: "https://company1.com",
     quarter: 1,
     Headcount_Count: 173,
     Headcount_Growth: -49.12,
@@ -145,8 +145,8 @@ export const historicalData = [
     year: 2022
   },
   {
-    company_name: "Databricks",
-    company_website: "https://databricks.com",
+    company_name: "Company 1",
+    company_website: "https://company1.com",
     quarter: 2,
     Headcount_Count: 104,
     Headcount_Growth: -39.88,
@@ -161,8 +161,8 @@ export const historicalData = [
     year: 2022
   },
   {
-    company_name: "Databricks",
-    company_website: "https://databricks.com",
+    company_name: "Company 1",
+    company_website: "https://company1.com",
     quarter: 3,
     Headcount_Count: 278,
     Headcount_Growth: 167.31,
@@ -177,8 +177,8 @@ export const historicalData = [
     year: 2022
   },
   {
-    company_name: "Databricks",
-    company_website: "https://databricks.com",
+    company_name: "Company 1",
+    company_website: "https://company1.com",
     quarter: 4,
     Headcount_Count: 366,
     Headcount_Growth: 31.65,
@@ -193,8 +193,8 @@ export const historicalData = [
     year: 2022
   },
   {
-    company_name: "Databricks",
-    company_website: "https://databricks.com",
+    company_name: "Company 1",
+    company_website: "https://company1.com",
     quarter: 1,
     Headcount_Count: 258,
     Headcount_Growth: -29.51,
@@ -209,8 +209,8 @@ export const historicalData = [
     year: 2023
   },
   {
-    company_name: "Databricks",
-    company_website: "https://databricks.com",
+    company_name: "Company 1",
+    company_website: "https://company1.com",
     quarter: 2,
     Headcount_Count: 110,
     Headcount_Growth: -57.36,
@@ -225,8 +225,8 @@ export const historicalData = [
     year: 2023
   },
   {
-    company_name: "Databricks",
-    company_website: "https://databricks.com",
+    company_name: "Company 1",
+    company_website: "https://company1.com",
     quarter: 3,
     Headcount_Count: 153,
     Headcount_Growth: 39.09,
@@ -241,8 +241,8 @@ export const historicalData = [
     year: 2023
   },
   {
-    company_name: "Databricks",
-    company_website: "https://databricks.com",
+    company_name: "Company 1",
+    company_website: "https://company1.com",
     quarter: 4,
     Headcount_Count: 159,
     Headcount_Growth: 3.92,
@@ -257,8 +257,8 @@ export const historicalData = [
     year: 2023
   },
   {
-    company_name: "Databricks",
-    company_website: "https://databricks.com",
+    company_name: "Company 1",
+    company_website: "https://company1.com",
     quarter: 1,
     Headcount_Count: 183,
     Headcount_Growth: 15.09,
@@ -273,8 +273,8 @@ export const historicalData = [
     year: 2024
   },
   {
-    company_name: "Databricks",
-    company_website: "https://databricks.com",
+    company_name: "Company 1",
+    company_website: "https://company1.com",
     quarter: 2,
     Headcount_Count: 15,
     Headcount_Growth: -91.8,
@@ -289,8 +289,8 @@ export const historicalData = [
     year: 2024
   },
   {
-    company_name: "Databricks",
-    company_website: "https://databricks.com",
+    company_name: "Company 1",
+    company_website: "https://company1.com",
     quarter: 3,
     Headcount_Count: 178,
     Headcount_Growth: 1086.67,
@@ -305,8 +305,8 @@ export const historicalData = [
     year: 2024
   },
   {
-    company_name: "Databricks",
-    company_website: "https://databricks.com",
+    company_name: "Company 1",
+    company_website: "https://company1.com",
     quarter: 4,
     Headcount_Count: 111,
     Headcount_Growth: -37.64,
@@ -325,8 +325,8 @@ export const historicalData = [
 // Competitor data for all companies
 export const competitorData = [
   {
-    company_name: "Chime",
-    company_website: "https://www.chime.com",
+    company_name: "Company 1",
+    company_website: "https://company1.com",
     quarter: "Q1 2020",
     status: "Exited",
     industry: "Finance",
@@ -340,8 +340,8 @@ export const competitorData = [
     investors_names: "Andreessen Horowitz, Accel Partners"
   },
   {
-    company_name: "Databricks",
-    company_website: "https://databricks.com",
+    company_name: "Company 2",
+    company_website: "https://company2.com",
     quarter: "Q1 2020",
     status: "Active",
     industry: "Education",
@@ -355,8 +355,8 @@ export const competitorData = [
     investors_names: "Accel Partners, SoftBank, Andreessen Horowitz, Kleiner Perkins, Sequoia Capital"
   },
   {
-    company_name: "Discord",
-    company_website: "https://discord.com",
+    company_name: "Company 3",
+    company_website: "https://company3.com",
     quarter: "Q1 2020",
     status: "Inactive",
     industry: "Healthcare",
@@ -370,8 +370,8 @@ export const competitorData = [
     investors_names: "Kleiner Perkins, SoftBank, Andreessen Horowitz, Sequoia Capital"
   },
   {
-    company_name: "Epic Games",
-    company_website: "https://www.epicgames.com",
+    company_name: "Company 4",
+    company_website: "https://company4.com",
     quarter: "Q1 2020",
     status: "Exited",
     industry: "Education",
@@ -385,8 +385,8 @@ export const competitorData = [
     investors_names: "Andreessen Horowitz, Sequoia Capital"
   },
   {
-    company_name: "Instacart",
-    company_website: "https://www.instacart.com",
+    company_name: "Company 5",
+    company_website: "https://company5.com",
     quarter: "Q1 2020",
     status: "Exited",
     industry: "Finance",
@@ -400,8 +400,8 @@ export const competitorData = [
     investors_names: "Andreessen Horowitz, Sequoia Capital, Kleiner Perkins, Accel Partners"
   },
   {
-    company_name: "Klarna",
-    company_website: "https://www.klarna.com",
+    company_name: "Company 6",
+    company_website: "https://company6.com",
     quarter: "Q1 2020",
     status: "Exited",
     industry: "Finance",
@@ -415,8 +415,8 @@ export const competitorData = [
     investors_names: "Andreessen Horowitz, Accel Partners"
   },
   {
-    company_name: "Plaid",
-    company_website: "https://plaid.com",
+    company_name: "Company 7",
+    company_website: "https://company7.com",
     quarter: "Q1 2020",
     status: "Active",
     industry: "Education",
@@ -430,8 +430,8 @@ export const competitorData = [
     investors_names: "SoftBank, Accel Partners"
   },
   {
-    company_name: "Robinhood",
-    company_website: "https://robinhood.com",
+    company_name: "Company 8",
+    company_website: "https://company8.com",
     quarter: "Q1 2020",
     status: "Inactive",
     industry: "Healthcare",
@@ -445,8 +445,8 @@ export const competitorData = [
     investors_names: "Sequoia Capital"
   },
   {
-    company_name: "SpaceX",
-    company_website: "https://www.spacex.com",
+    company_name: "Company 9",
+    company_website: "https://company9.com",
     quarter: "Q1 2020",
     status: "Exited",
     industry: "Healthcare",
@@ -460,8 +460,8 @@ export const competitorData = [
     investors_names: "SoftBank"
   },
   {
-    company_name: "Stripe",
-    company_website: "https://stripe.com",
+    company_name: "Company 10",
+    company_website: "https://company10.com",
     quarter: "Q1 2020",
     status: "Exited",
     industry: "Retail",
